@@ -1,0 +1,7 @@
+[package]
+name = "basel3_rw"
+version = "0.1.0"
+authors = ["mmatthew <takeknock@gmail.com>"]
+
+[dependencies.iron]
+version = "*"
