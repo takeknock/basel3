@@ -78,6 +78,7 @@ Risk weight
 ### 6. Level of application of the rating
 115. External ratings for one entity within a corporate group cannot be used to risk-weight other entities within the same group.
 
+
 115.企業グループ内の1つの事業体の外部格付けは、同じグループ内の他の事業体のリスクウェートとして使用することはできない。
 
 ### 7. Use of unsolicited ratings
