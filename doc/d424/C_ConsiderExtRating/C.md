@@ -1,10 +1,16 @@
 ## C.Implementation considerations in jurisdictions that allow use of external ratings for regulatory purposes
 - 規制目的で外部評価を使用できるようにする管轄区域における実施上の考慮事項
 ### 1. The mapping process
-100.監督者は、標準化されたリスク加重の枠組みのもとで利用可能なリスク加重に適格なECAIの格付を割り当てること、すなわち、どの格付けカテゴリーがどのリスクウェートに対応するかを決定する責任がある。マッピングプロセスは客観的でなければならず、上記の表に反映されている信用リスクの水準と一致するリスクウェートの割り当てをもたらすはずです。リスクウェイトの全範囲をカバーする必要があります。
-101.このようなマッピングプロセスを実施する場合、監督者が評価すべき要素には、とりわけ、各ECAIが対象とする発行体プールの規模と範囲、それが割り当てる格付けの範囲と意味、使用されるデフォルトの定義ECAIによる。
-102.バーゼルⅡフレームワーク（2006年6月）の附属書2は、利用可能なリスクウェイトへの格付けのより一貫したマッピングを促進し、監督者がそのようなプロセスを実施するのを助けるために、そのようなマッピングプロセスをどのように実施するかについて指針を提供する。
-103.銀行は、選択したECAIとその格付を、リスク加重とリスク管理目的の両方で、適格なECAIとして監督者が認識したすべての種類の債権に対して一貫して使用しなければならない。銀行は、異なるECAIによって提供された格付けを「チェリーピック」し、ECAIの使用を任意に変更することはできません。
+100.Supervisors will be responsible for assigning eligible ECAIs’ ratings to the risk weights available under the standardised risk weighting framework, ie deciding which rating categories correspond to which risk weights. The mapping process should be objective and should result in a risk weight assignment consistent with that of the level of credit risk reflected in the tables above. It should cover the full spectrum of risk weights.
+101.When conducting such a mapping process, factors that supervisors should assess include, among others, the size and scope of the pool of issuers that each ECAI covers, the range and meaning of the ratings that it assigns, and the definition of default used by the ECAI.
+102.In order to promote a more consistent mapping of ratings into the available risk weights and help supervisors in conducting such a process, Annex 2 of the Basel II framework (June 2006) provides guidance as to how such a mapping process may be conducted.
+103.Banks must use the chosen ECAIs and their ratings consistently for all types of claim where they have been recognised by their supervisor as an eligible ECAI, for both risk-weighting and risk management purposes. Banks will not be allowed to “cherry-pick” the ratings provided by different ECAIs and to arbitrarily change the use of ECAIs.
+
+
+100. 監督者は、標準化されたリスク加重の枠組みのもとで利用可能なリスク加重に適格なECAIの格付を割り当てること、すなわち、どの格付けカテゴリーがどのリスクウェートに対応するかを決定する責任がある。マッピングプロセスは客観的でなければならず、上記の表に反映されている信用リスクの水準と一致するリスクウェートの割り当てをもたらすはずです。リスクウェイトの全範囲をカバーする必要があります。
+101. このようなマッピングプロセスを実施する場合、監督者が評価すべき要素には、とりわけ、各ECAIが対象とする発行体プールの規模と範囲、それが割り当てる格付けの範囲と意味、使用されるデフォルトの定義ECAIによる。
+102. バーゼルⅡフレームワーク（2006年6月）の附属書2は、利用可能なリスクウェイトへの格付けのより一貫したマッピングを促進し、監督者がそのようなプロセスを実施するのを助けるために、そのようなマッピングプロセスをどのように実施するかについて指針を提供する。
+103. 銀行は、選択したECAIとその格付を、リスク加重とリスク管理目的の両方で、適格なECAIとして監督者が認識したすべての種類の債権に対して一貫して使用しなければならない。銀行は、異なるECAIによって提供された格付けを「チェリーピック」し、ECAIの使用を任意に変更することはできません。
 →その時々で有利なECAIを任意に使用するよう 変更できない。では、銀行はどのタイミングであればECAIを選択することができるのか？
 
 ### 2. Multiple external ratings

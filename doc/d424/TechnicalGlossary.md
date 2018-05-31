@@ -128,3 +128,16 @@ PO格付は証券保有者が当初投資元本を、償還日までに受領す
 
 #### ロールオフ
 債券の償還金を再投資せず償還するに任せること
+
+#### facility rating
+案件格付け
+
+#### take into account
+考慮する
+
+#### issue
+A set of securities that a company or government offers for sale.
+
+
+
+
