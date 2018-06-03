@@ -1,3 +1,88 @@
+<!-- TOC -->
+
+- [Standardized Approach for credit risk](#standardized-approach-for-credit-risk)
+    - [Introduction](#introduction)
+    - [A. Individual exposures](#a-individual-exposures)
+        - [Due diligence requirements](#due-diligence-requirements)
+        - [1. Exposures to sovereigns](#1-exposures-to-sovereigns)
+        - [2. Exposures to non-central government public sector entities(PSEs)](#2-exposures-to-non-central-government-public-sector-entitiespses)
+        - [3. Exposures to multilateral development banks(MDBs)](#3-exposures-to-multilateral-development-banksmdbs)
+        - [4. Exposures to banks](#4-exposures-to-banks)
+            - [Risk weight determination](#risk-weight-determination)
+                - [(a). ExternalCredit Risk Assessment Approach(ECRA)](#a-externalcredit-risk-assessment-approachecra)
+                - [(b). Standardised CreditRisk Assessment Approach(SCRA)](#b-standardised-creditrisk-assessment-approachscra)
+        - [5.Exposures to covered bond](#5exposures-to-covered-bond)
+            - [Eligible assets](#eligible-assets)
+            - [Disclosure requirements](#disclosure-requirements)
+        - [6. Exposures to securities firms and other financial institutions](#6-exposures-to-securities-firms-and-other-financial-institutions)
+        - [7. Exposures to corporates](#7-exposures-to-corporates)
+            - [7.1 General corporate exposures](#71-general-corporate-exposures)
+                - [Risk weight determination](#risk-weight-determination-1)
+            - [7.2 Special lending](#72-special-lending)
+        - [8. Subordinated debt, equity and other capital instruments](#8-subordinated-debt-equity-and-other-capital-instruments)
+        - [9. Retail exposures](#9-retail-exposures)
+        - [10. Real estate exposure class](#10-real-estate-exposure-class)
+            - [10.1 Exposures secured by residential real estate](#101-exposures-secured-by-residential-real-estate)
+            - [10.2 Exposures secured by commercial real estate](#102-exposures-secured-by-commercial-real-estate)
+            - [10.3 Land acquisition, development and construction exposures](#103-land-acquisition-development-and-construction-exposures)
+        - [11. Risk weight multiplier to certain exposures with currency mismatch](#11-risk-weight-multiplier-to-certain-exposures-with-currency-mismatch)
+        - [12. Off-balance sheet items](#12-off-balance-sheet-items)
+        - [13. Defaulted exposures](#13-defaulted-exposures)
+        - [14. Other assets](#14-other-assets)
+    - [B. Recognition of external ratings by national supervisors](#b-recognition-of-external-ratings-by-national-supervisors)
+        - [1. The recognition process](#1-the-recognition-process)
+        - [2. Eligibility criteria](#2-eligibility-criteria)
+    - [C.Implementation considerations in jurisdictions that allow use of external ratings for regulatory purposes](#cimplementation-considerations-in-jurisdictions-that-allow-use-of-external-ratings-for-regulatory-purposes)
+        - [1. The mapping process](#1-the-mapping-process)
+        - [2. Multiple external ratings](#2-multiple-external-ratings)
+        - [3. Determination off whether an exposure is rated: Issue-specific and issuer ratings](#3-determination-off-whether-an-exposure-is-rated-issue-specific-and-issuer-ratings)
+        - [4. Domestic Currency and foreign currency](#4-domestic-currency-and-foreign-currency)
+        - [5. Short-term/long-term ratings](#5-short-termlong-term-ratings)
+        - [6. Level of application of the rating](#6-level-of-application-of-the-rating)
+        - [7. Use of unsolicited ratings](#7-use-of-unsolicited-ratings)
+    - [D. Credit risk mitigation techniques for exposures risk-weighted under the standardised approach](#d-credit-risk-mitigation-techniques-for-exposures-risk-weighted-under-the-standardised-approach)
+        - [1. Overarching issues](#1-overarching-issues)
+            - [(1) Introduction](#1-introduction)
+            - [(2) General requirements](#2-general-requirements)
+            - [(3) Legal requirements](#3-legal-requirements)
+            - [(4) General treatment of maturity mismatches](#4-general-treatment-of-maturity-mismatches)
+            - [(5) Currency mismatches](#5-currency-mismatches)
+        - [2. Overview of credit risk mitigation techniques](#2-overview-of-credit-risk-mitigation-techniques)
+            - [(1) Collateralised transactions](#1-collateralised-transactions)
+            - [(2) On-balance sheet netting](#2-on-balance-sheet-netting)
+            - [(3) Guarantees and credit derivatives](#3-guarantees-and-credit-derivatives)
+        - [3. Collateralised transactions](#3-collateralised-transactions)
+            - [(1) General requirements](#1-general-requirements)
+            - [(2) The simple approach](#2-the-simple-approach)
+                - [Eligible financial collateral under the simple approach](#eligible-financial-collateral-under-the-simple-approach)
+                - [Exemptions under the simple approach to the risk-weight floor](#exemptions-under-the-simple-approach-to-the-risk-weight-floor)
+            - [(3) The comprehensive approach](#3-the-comprehensive-approach)
+                - [(a) General requirements for the comprehensive approach](#a-general-requirements-for-the-comprehensive-approach)
+                - [(b) Eligible financial collateral under the comprehensive approach](#b-eligible-financial-collateral-under-the-comprehensive-approach)
+                - [(c) Calculation of capital requirement for transactions secured by financial collateral](#c-calculation-of-capital-requirement-for-transactions-secured-by-financial-collateral)
+                - [(d) Adjustment for different holding periods and non-daily mark-to-market or remargining](#d-adjustment-for-different-holding-periods-and-non-daily-mark-to-market-or-remargining)
+                - [(e) Exemptions under the comprehensive approach for qualifying repo-style transactions involving core market participants](#e-exemptions-under-the-comprehensive-approach-for-qualifying-repo-style-transactions-involving-core-market-participants)
+                - [(f)Treatment under the comprehensive approach of SFTs covered by master netting agreements](#ftreatment-under-the-comprehensive-approach-of-sfts-covered-by-master-netting-agreements)
+            - [(4) Minimum haircut floors for SFTs](#4-minimum-haircut-floors-for-sfts)
+            - [(5) Collateralised OTC derivatives transactions](#5-collateralised-otc-derivatives-transactions)
+        - [4. On-balance sheet netting](#4-on-balance-sheet-netting)
+        - [5. Guarantees and credit derivatives](#5-guarantees-and-credit-derivatives)
+            - [(1) Operational requirements for guarantees and credit derivatives](#1-operational-requirements-for-guarantees-and-credit-derivatives)
+            - [(2) Specific operational requirements for gurantees](#2-specific-operational-requirements-for-gurantees)
+            - [(3) Specific operational requirements for credit derivatives](#3-specific-operational-requirements-for-credit-derivatives)
+            - [(4) Range of eligible guarantors(counter-guarantors)/protection providers and credit derivatives](#4-range-of-eligible-guarantorscounter-guarantorsprotection-providers-and-credit-derivatives)
+            - [(5) Risk-weight treatment of transactions in which eligible credit protection is provided](#5-risk-weight-treatment-of-transactions-in-which-eligible-credit-protection-is-provided)
+                - [General risk-weight treatment](#general-risk-weight-treatment)
+                - [Proportional cover](#proportional-cover)
+                - [Tranched cover](#tranched-cover)
+            - [(6) Currency mismatches](#6-currency-mismatches)
+            - [(7) Sovereign guarantees and counter-guarantees](#7-sovereign-guarantees-and-counter-guarantees)
+- [サンプル取引のRWA計算](#サンプル取引のrwa計算)
+- [用語集](#用語集)
+- [課題](#課題)
+    - [疑問点](#疑問点)
+
+<!-- /TOC -->
 # Standardized Approach for credit risk
 ## Introduction
 1-3
@@ -110,7 +195,7 @@ Due deligence:
 
 ## B. Recognition of external ratings by national supervisors
 ### 1. The recognition process
-98. 規制目的のために外部格付けを使用することができる管轄区域では、外部信用評価機関(ECAI)として認定された信用格付機関からの信用評価のみが許可される。 国家監督当局は、ECAIがパラグラフ99に列挙された基準を満たしているかどうかを継続的に判断する責任を負い、すべての基準および条件が満たされている請求の種類についてECAI格付けに関してのみ認識を提供すべきである。 国家監督当局は、ECAIの適格性を決定する際に、信用格付け機関のためのIOSCO行動規範の基礎59で提供される基準および条件も考慮する必要がある。 ECAIを認定するための監督プロセスは、不必要な参入障壁を避けるために公表されるべきである。
+98. 規制目的のために外部格付けを使用することができる法域では、外部信用評価機関(ECAI)として認定された信用格付機関からの信用評価のみが許可される。 国家監督当局は、ECAIがパラグラフ99に列挙された基準を満たしているかどうかを継続的に判断する責任を負い、すべての基準および条件が満たされている請求の種類についてECAI格付けに関してのみ認識を提供すべきである。 国家監督当局は、ECAIの適格性を決定する際に、信用格付け機関のためのIOSCO行動規範の項目59で提供される基準および条件も考慮する必要がある。 ECAIを認定するための監督プロセスは、不必要な参入障壁を避けるために公表されるべきである。
 - ポイント
 ### 2. Eligibility criteria
 99. ECAIは、以下の8つの基準のそれぞれを満たさなければならない。
@@ -125,7 +210,7 @@ Due deligence:
 - ポイント
 
 ## C.Implementation considerations in jurisdictions that allow use of external ratings for regulatory purposes
-- 規制目的で外部評価を使用できるようにする管轄区域における実施上の考慮事項
+- 規制目的で外部評価を使用できるようにする法域における実施上の考慮事項
 ### 1. The mapping process
 100-103
 - ポイント
@@ -140,7 +225,6 @@ Due deligence:
 
 
 ### 2. Multiple external ratings
-104-106
 - 複数の外部格付が存在する場合の対処方法はどのようにしたらよいか？
 104. 特定の債権について銀行が選択したECAIによる格付けが1つしかない場合、その格付を用いてエクスポージャーのリスクウェイトを決定すべきである。
 105. 特定の債権について銀行が選択した複数のECAIによる格付けが異なるリスクウェートにマッピングされている場合、高いほうのリスクウェイトが適用されます。
@@ -207,7 +291,7 @@ Due deligence:
 121. CRM効果はダブルカウントしてはならない
 122. CRM手法によって、別の残存リスク(法的、経営的、流動性、市場リスク)が増える可能性がある→銀行はこれらのリスクをコントロールする堅牢な手続きを採用しなければならない。
 123. CRM効果を得るためには、カウンターパーティーの信用度が採用されたCRM手法や残存リスクと正の相関を持っていてはならない。
-124. 1つのエクスポージャーに対して複数のCRM手法を適用している場合、各CRM手法にカバーされる部分にエクスポージャーを分割し、それぞれRWAを計算する。1つの保障提供機関から異なる満期の信用プロテクションを提供されている場合、満期ごとに別のプロテクションとして分割する。
+124. 1つのエクスポージャーに対して複数のCRM手法を適用している場合、各CRM手法にカバーされる部分にエクスポージャーを分割し、それぞれRWAを計算する。1つの保障提供機関から異なる満期のクレジットプロテクションを提供されている場合、満期ごとに別のプロテクションとして分割する。
 
 #### (3) Legal requirements
 125. 銀行がCRM手法を使用するための自己資本軽減効果を得るためには、担保付取引、貸借対照表上の貸借対照表、保証および信用デリバティブに使用されるすべての文書は、すべての当事者を拘束し、関連するすべての法域において法的に執行可能でなければなりません。 銀行は、これを確認し、この結論に達するための十分に確立された法的基盤を有する十分な法的審査を実施し、継続的な強制力を確保するために必要に応じて更なる検討を行わなければならない。 
@@ -234,11 +318,10 @@ $P_a = P \cdot \frac{t-0.25}{T-0.25}$
 - 包括的手法では保証(165)やクレジットデリバティブ(204)の場合、それぞれ特定の調整を行う。
 
 ### 2. Overview of credit risk mitigation techniques
-*注釈67*
 #### (1) Collateralised transactions
 132. 適格金融資産担保(有担保)取引とは
-銀行が信用エクスポージャーまたは潜在的信用エクスポージャーの全部または一部がヘッジするためにカウンターパーティーまたは第三者によって差しいれられた担保取引
-銀行が適格金融担保を取得する場合、CRM技術の適用を通じて規制資本要件を削減する可能性があります。
+銀行が信用エクスポージャーまたは潜在的信用エクスポージャーの全部または一部がヘッジするためにカウンターパーティーまたは第三者によって差しいれられた担保取引。
+銀行が適格金融担保を取得する場合、CRM技術の適用を通じて必要規制資本を削減する可能性がある。
 
 133. 銀行が以下のどちらかの信用リスク削減効果の反映方法を選ぶ
   - The simple approach(簡便法)
@@ -275,7 +358,6 @@ $P_a = P \cdot \frac{t-0.25}{T-0.25}$
 146. 単純なアプローチの下では、カウンターパーティーのリスクウェートは、エクスポージャーを担保または部分的に担保にしている担保商品のリスクウェイトに置き換えられる。
 147. 担保は、単純なアプローチで認識されるためには、少なくともエクスポージャーの存続期間にわたって約束されなければならず、最低6ヶ月の頻度で市場に再評価されなければならない。認識された担保の市場価値により担保されているエクスポージャーの部分は、担保証券に適用されるリスク加重を受け取る。 担保付部分のリスクウェイトは、パラグラフ150〜154で指定された条件を除き、20％のフロアに従います。残存するエクスポージャーには、カウンターパーティに適切なリスクウェイトを割り当てる必要があります。 満期のミスマッチは簡便法では許されない（パラグラフ126と127参照）。
 ##### Eligible financial collateral under the simple approach
--149
 148. 簡便法の対象となる担保商品の一覧。
 （a）カウンターパーティのエクスポージャーを被る銀行への預託金の現金（貸出銀行が発行した譲渡性預金証書または同等の証書と同様）。
 （b）ゴールド。
@@ -454,13 +536,13 @@ $H_{fx}$ =通貨$fx$の通貨の不一致に適したヘアカット。
 
 187. ネットセットに含まれない単一のスコープ内SFTについて、$H$および$f$の値は以下のように計算される。
 - 単一の現金担保貸付SFTについては、$H$は単に受領担保の金額で定義され、$f$はパラグラフ184で与えられるため、$H$と$f$は既知である。この計算の目的上、カウンターパーティーは、コールされた瞬間から受け取った担保として扱うことができます（つまり、処理は決済期間とは独立しています）。
-  - 例えば、12年満期の企業債務証券101に対して100の現金が貸し出され、$H$が1％（（101-100）/ 100）であり、$f$が4％（パラグラフ184より決定）。したがって、問題のSFTはパラグラフ185の処理の対象となる。
-- 担保SFT、担保Aの貸し付け、および担保Bの受け取りについては、依然としてHは受け取った担保の額によって定義されますが、取引の実効フロアは2種類の担保のフロアを統合する必要があります。次のように計算されます。
+  - 例えば、12年満期の企業債務証券101単位に対して100単位の現金が貸し出され、$H$が1％（（101-100）/ 100）であり、$f$が4％（パラグラフ184より決定）。したがって、問題のSFTはパラグラフ185の処理の対象となる。
+- 担保SFT、担保Aの貸し付け、および担保Bの受け取りについては、依然として、$H$は受け取った担保の額によって定義されますが、取引の実効フロアは2種類の担保のフロアを統合する必要があります。次のように計算されます。
 $f = [(\frac{1}{1+f_A})/(\frac{1}{1+f_B})]-1 = \frac{1+f_B}{1+f_A}-1$
 これは取引の有効なヘアカットと比較される、すなわち
 $\frac{C_B}{C_A}-1$
 と比較される。
-例えば、10年満期の企業債務証券102株を104株と交換した有効範囲内のSFTを考えてみると、取引の実効的な頭髪Hは104/102 - 1 = 1.96％であり、比較する必要があります1.06 / 1.03 - 1 = 2.91％の有効床面積fを有する。したがって、問題のSFTはパラグラフ185の処理の対象となる。
+例えば、10年満期の企業債務証券102単位を104単位と交換した有効範囲内のSFTを考えてみると、取引の実効的なヘアカット$H$は104/102 - 1 = 1.96％であり、比較する必要があります1.06 / 1.03 - 1 = 2.91％の有効ヘアカット$f$を有する。したがって、問題のSFTはパラグラフ185の処理の対象となる。
 
 188. SFTのネッティングでは、トランザクションの有効な「ポートフォリオ」フロアは次のように計算されなければならない。
 $f_{portfolio} = [(\frac{\Sigma_sE_s}{\Sigma_sE_s\times(1+f_s)})/(\frac{\Sigma_tC_t}{\Sigma_tC_t\times(1+f_t)})]-1$
@@ -473,38 +555,93 @@ $\frac{\Sigma C_t-\Sigma E_s}{\Sigma E_s} \geq f_{portfolio} $
 ![p47](./d424/pic/p47_example_floor.jpg "example of floor calculation")
 
 #### (5) Collateralised OTC derivatives transactions
-189
+189. カウンターパーティーの信用リスク（SA-CCR）の標準化されたアプローチでは、個々の取引先のカウンターパーティーの信用リスクの計算は以下のようになります。
+$\mathrm{Exposure Amount(EAD)} = \mathrm{alpha} \cdot (\mathrm{RC}+ \mathrm{PFE})$
+- $\mathrm{alpha}$= 1.4、
+- $\mathrm{RC}$ =カウンターパーティの信用リスク基準のパラグラフ130〜145に従って算出された交換費用、および
+- $\mathrm{PFE}$ =カウンターパーティーの信用リスク基準のパラグラフ146から187に従って計算される将来の潜在的エクスポージャーの金額。
+銀行は、カウンターパーティーの信用リスク費用の計算のためのSA-CCRの代替案として、監督上の承認を条件として、カウンターパーティーの信用リスク基準に定められた内部モデル方法を使用することもできる。
 
 ### 4. On-balance sheet netting
+- Credit Risk Mitigation techniqueの4つ目
+- 貸借対照上の取引についてのネッティングの、運用条件
 190. 銀行が:
-(a)相手方が破綻しているか破産しているかにかかわらず、関連する管轄区域において、ネッティング契約または相殺契約が強制可能であると結論付けるための十分に確立された法的根拠を有する場合。
+(a)相手方が破綻しているか破産しているかにかかわらず、関連する法域において、ネッティング契約または相殺契約が強制可能であると結論付けるための十分に確立された法的根拠を有する場合。
 (b)いつでも、ネッティング契約の対象となる同じ取引先との資産および負債を決定することができる場合。
 (c)ロールオフリスクを監視し管理する場合。 そして
-(d)ネットベースで関連するエクスポージャーを監視および管理し、資産(貸付金)は、担保としてのエクスポージャーおよび負債(預金)として扱われる。貸出金および預金は、第160項の式に従って自己資本比率計算の基礎として使用される。 ヘアカットは、通貨の不一致が存在する場合を除いてゼロです。 毎日の時価評価を行う場合、10営業日の保有期間が適用されます。 貸借対照表上のネッティングの場合、パラグラフ163および172および126〜130の要件を適用しなければならない。
+(d)ネットされた額を基準に関連するエクスポージャーを監視および管理する場合。
+資産(貸付金)は、担保としてのエクスポージャーおよび負債(預金)として扱われる。貸出金および預金は、第160項の式に従って自己資本比率計算のベースとして使用される。 ヘアカットは、通貨の不一致が存在する場合を除いてゼロです。 毎日の時価評価を行う場合、10営業日の保有期間が適用されます。 貸借対照表上のネッティングの場合、パラグラフ163（外部格付けを規制目的で使用できる法域での$H_c$と$H_e$に適用されるヘアカット%）および172(再担保、再評価間隔が最小値でない場合の調整)および126〜130(満期のミスマッチによる調整)の要件を適用しなければならない。
 
 ### 5. Guarantees and credit derivatives
 保証およびクレジット・デリバティブの詳細な条件および運用要件
 #### (1) Operational requirements for guarantees and credit derivatives
-191. 下記の条件が満たされた場合、銀行はカウンターパーティーのリスクウェイトを保証、クレジットデリバティブのリスクウェイトに置き換えることができる。
+191. 下記の条件が満たされた場合、銀行はカウンターパーティーのリスクウェイトを保証者(保証期間、クレジットデリバティブ発行機関)のリスクウェイトに置き換えることができる。
 
 192. 保証(カウンター保証)またはクレジット・デリバティブは、以下の要件を満たさなければならない。
 (a)プロテクションの提供者に対する直接請求となっている。
 (b)特定のエクスポージャーまたはエクスポージャーのプールに明示的に参照されているため、カバー範囲が明確に定義されており、議論の余地がない。
 (c)クレジットプロテクション契約のためのプロテクション購入者による未払い以外の金銭の取消しは取消不能である。契約において、プロテクションプロバイダーが一方的に信用保証を取り消すことができないか、またはヘッジ対象のエクスポージャーの信用度が低下した結果、保険証書の実効費用が増加する条項はない。
 (d)それは無条件でなければならない。裏付取引相手が支払期日を過ぎた場合にプロテクション業者が適時に払い戻すことを義務づけないような、銀行の直接管理外のプロテクション契約には条項が存在してはならない。
+
 193. 満期のミスマッチの場合、提供されるクレジットプロテクションの額はパラグラフ126から130に従って調整されなければならない。
+
 #### (2) Specific operational requirements for gurantees
+194. 125項の法的確実性要件に加えて、保証が認められるためには、以下の要件を満たさなければならない。
+（a）取引相手の債務不履行/未払い認定については、銀行は、取引を管理する文書のもとで未払いの金銭について、適時に保証人を追及することができる。保証人は、そのような書類の下にあるすべての金銭を銀行に一括して支払うか、保証人が保証の対象となる取引先の将来の支払義務を引き受けることができる。銀行は、支払いを行うために取引相手を追求するために法的措置を講じることなく、保証人からそのような支払いを受ける権利を持っていなければなりません。
+（b）保証は、保証人による明示的に文書化しされた債務です。
+（c）次の文に記載されている場合を除き、保証には、取引を管理する文書のもとで想定元本取引相手が想定するすべての種類の支払額、例えば想定元本、証拠金支払額などが含まれます。 
+- 保証が元本の支払いのみをカバーする場合、利息およびその他のカバーされていない支払いは、第202項に記載されている部分的カバーの規則に従って、無担保の金額(unsecured amount)として扱われなければならない。
+
 
 #### (3) Specific operational requirements for credit derivatives
+195. クレジット・デリバティブ契約が認識されるためには、パラグラフ125の法的確実性要件に加えて、以下の要件が満たされなければならない。
+- （a）締約国によって指定された信用事由は、最低限、以下のものをカバーしなければならない：
+  - そのような不履行時に有効である根本的な債務の条件に基づく支払額の不足（猶予期間は基本債務の猶予期間とほぼ同じである）。
+  - 破産、債務者が債務を支払うことができないこと、債務者が負債を支払うことができないこと、債務不履行に陥ったことを書面で認めないこと、類似事象。そして
+  - クレジット・ロス・イベント（すなわち、償却、特定の引当金、または損益計算書への類似の借方）をもたらす、原則、利息または手数料の免除または延期を伴う原債務の再構築。
+- （b）クレジット・デリバティブが原債務を含まない債務をカバーする場合、以下のセクション（g）は、アセットミスマッチが許容されるかどうかを決定する。
+- （c）クレジット・デリバティブは、支払義務の履行不履行に起因する債務不履行に必要な猶予期間が満了する前に終了してはならない。満期の不一致の場合は、パラグラフ126から130の規定を適用しなければならない。
+- （d）現金決済を許容するクレジット・デリバティブは、損失を確実に見積るために堅調な評価プロセスが存在する限り、資本目的で認識される。原債務のクレジット・イベント後の評価を得るための明確な期間が存在しなければならない。現金決済の目的でクレジット・デリバティブに指定されている参照債務が原債務と異なる場合、以下のセクション（g）は資産の不一致が許容されるかどうかを決定する。
+- （e）プロテクション購入者の権利義務をプロテクション提供者に移転する権利/能力が決済のために必要な場合、原債務の条件は、かかる移転に必要な同意が不当に保留されないことを規定しなければならない。
+- （f）クレジット・イベントが発生したかどうかを決定する責任を負う当事者の識別は、明確に定義されなければならない。この決定は、プロテクションの売り手の唯一の責任であってはなりません。プロテクション購入者は、プロテクション提供者にクレジットイベントの発生を通知する権利/能力を持っていなければならない。
+- （g）クレジット・デリバティブに基づく原債務と参照債務（すなわち、現金決済額または引渡可能債務を決定する目的で使用される債務）との間のミスマッチは、以下の場合に許容される。
+  1. 参照債務が原資産債務と同順位(pari passu)もしくは劣後する場合、 
+  2. 原債務および参照債務が同じ債務者（すなわち同じ法人）を共有し、法的に強制可能なクロス・デフォルトまたはクロス・アクセラレーション条項が存在する場合。
+- （h）原資産債務とクレジット・イベントの発生の有無を決定する目的で使用される債務との間の不一致は、（1）後者の債務が原資産債務と同等またはそれ以下の場合、および（2）義務および参照債務は、同じ債務者（すなわち、同じ法人）を共有し、法的に強制可能なクロス・デフォルトまたはクロス・アクセラレーション条項が適所にある。
+
+196. 原債務の再構築がクレジット・デリバティブには含まれないが、パラグラフ195のその他の要件が満たされる場合、クレジット・デリバティブの部分的な適用は認められる。クレジット・デリバティブの金額が原債務の金額に等しいかそれ以下である場合、ヘッジの金額の60％がカバーされていると認識することができる。クレジット・デリバティブの金額が原債務の金額よりも大きい場合、適格なヘッジの金額は、原債務の額の60％を上限とする。
 
 #### (4) Range of eligible guarantors(counter-guarantors)/protection providers and credit derivatives
+(ここの判定でも企業のリスクウェイトを決めるテーブルが参照される)
+197. 以下の企業によって与えられたクレジットプロテクションは、カウンターパーティよりリスクウェイトが低い場合に認識される。
+- カウンターパーティーよりもリスクウェイトの低いソブリン(EUROの組織も含む)、PSE、MDB(パラグラフ14, 注釈10で記載)、銀行、証券会社、その他の慎重に規制された金融機関;
+- 規制目的で外部格付けを使用することができる法域：
+  - 証券化エクスポージャーに与信プロテクションが提供されている場合を除き、外部格付を受けているその他の事業体。これには、親会社、子会社および関連会社が債務者よりもリスクウェイトが低い場合に提供されるクレジットプロテクションが含まれます。
+  - 証券化エクスポージャーに与信プロテクションが提供された場合、現在外部格付けBBB以上であり、クレジットプロテクションが提供された時点で外部格付けがA以上であるその他の企業。これには、親会社、子会社および関連会社が債務者よりもリスクウェイトが低い場合に提供されるクレジットプロテクションが含まれます。
+- 規制目的で外部格付けを使用できない法域では：
+  - 「投資適格」と定義されているその他の事業体は、経済的なサイクルおよびビジネス条件にかかわらず、適時に財務的約束（元本および利息の返済を含む）を満たす十分な能力を有することを意味する。
+この決定を行う際、銀行はビジネスモデルの複雑さ、業界および同業他社に対する業績、企業の営業環境によってもたらされるリスクを考慮して、投資適格の定義に対して企業を評価すべきである。
+さらに、以下の条件が満たされなければならない。
+o法人（または企業の親会社）については、有価証券取引所に未行使の有価証券を保有する必要があります。
+これらの「投資適格企業」の信用度は、保証を提供したエクスポージャーの信用リスクと正の相関がない。
+  - 債務者の親会社、子会社および関連会社が、信用力が保証を提供したエクスポージャーの信用リスクと正の相関関係にない場合。グループ内企業を適格保証人として認識させるためには、グループ全体の信用リスクを考慮する必要があります。
+198. 保証に相当するクレジットプロテクションを提供するクレジット・デフォルト・スワップおよびトータル・リターン・スワップのみが認識の対象となる。
+  - [CDS, TRSでも認識対象とならない例外]　銀行がトータル・リターン・スワップを通じてクレジットプロテクションを購入し、プロテクションされている資産（公正価値の減少または積立金の追加による）の価値の相殺を記録していない場合、クレジットプロテクションは認識されない。
+199. first-to-defaultやその他のn-th-to-defaultクレジット・デリバティブ（すなわち、銀行が参照名のバスケットに対してクレジットプロテクションを取得し、参照名の中の1番目またはn番目のデフォルトがクレジットをトリガーする場合契約を終了させる）は、信用リスク軽減手法として適格ではないため、規制上の必要資本軽減をもたらさない。銀行がそのような商品を通じてクレジットプロテクションを提供した取引では、第89項に記載されている取扱いを適用するものとする。
+
 
 #### (5) Risk-weight treatment of transactions in which eligible credit protection is provided
+的確なクレジットプロテクションが提供された場合の取引のリスクウェイトの取り扱い
+
 ##### General risk-weight treatment
+200. プロテクションされた部分にはプロテクション提供者のリスク重みが割り当てられる。 エクスポージャーのカバーされていない部分には、カウンターパーティーのリスクウェイトが割り当てられます。
+201. 損害が発生した場合にプロテクション納付が免除される支払額の重要性の判断基準は、保有している最初の損失のポジションと同等である。 重要性の判断基準を下回るエクスポージャーの部分には、クレジットプロテクションを購入する銀行が1250％のリスク加重を割り当てる必要があります。
 
 ##### Proportional cover
+202. 損失が銀行と保証人の間で比例配分されている場合、資本軽減は比例的に行われる。すなわち、エクスポージャーのプロテクション部分は、適格保証/適格クレジット・デリバティブに適用される取り扱いを受け取り、残りは無担保として扱われる。
 
 ##### Tranched cover
+203. 銀行が1つまたは複数のトランシェのエクスポージャーのリスクの一部をプロテクション売り手または売り手に移転し、ローンのリスクのあるレベルを保持し、譲渡されたリスクと保持されるリスクが異なる優先度の銀行である場合、銀行 シニアトランシェ（例えば、second-loss部分）またはジュニアトランシェ（例えばfirst-loss部分）のいずれかに対してクレジットプロテクションを得ることができる。 この場合、The securitization standardに定められた規則が適用されます。
 
 #### (6) Currency mismatches
 204. クレジット・プロテクションがエクスポージャーが指定されている通貨とは異なる通貨である場合、プロテクションされているとみなされるエクスポージャーの額は、
@@ -512,6 +649,7 @@ $G_A = G \cdot(1-H_{\mathrm{fx}})$
 $G$ =クレジットプロテクションの名目金額
 $H_{\mathrm{fx}}$ = クレジットプロテクションと対象商品の通貨の不一致に適したヘアカット。
 10営業日の保有期間(毎日のマーケティングを想定している)の通貨の不一致のヘアカットは8％です。 このヘアカットは、172項で説明したように、クレジットプロテクションの再評価の頻度に応じて、時間公式の平方根を使用してスケールアップする必要があります。
+
 #### (7) Sovereign guarantees and counter-guarantees  
 205. 第8項に規定されているように、銀行が設立されたソブリン(または中央銀行)へのエクスポージャー、およびエクスポージャーが国内通貨建てでその通貨で資金調達されている場合、国家の裁量により、国家監督当局は、ソブリン(または中央銀行)によって保証されたエクスポージャーの一部にこの処理を適用することができ、保証は国内通貨建てであり、エクスポージャーはその通貨で資金調達される。エクスポージャーは、ソブリンによって間接的に対抗保証されている保証によってカバーすることができます。そのような曝露は、以下の条件を満たしている場合には、
 (a)ソブリン・カウンター保証はエクスポージャーのすべての信用リスク要素をカバーする。
@@ -522,11 +660,7 @@ $H_{\mathrm{fx}}$ = クレジットプロテクションと対象商品の通貨
 # サンプル取引のRWA計算
 
 # 用語集
-- remarging期間
-- SFT
-- ヘアカットフロア
-- レポ形式取引
-  - repo-style transactions (ie repo/reverse repos and securities lending/borrowing)(paragraph 169.)
+@import "./d424/TechnicalGlossary.md"
 
 # 課題
 - サンプルを使った対応
@@ -545,3 +679,5 @@ $H_{\mathrm{fx}}$ = クレジットプロテクションと対象商品の通貨
 - 171、41の段落に(i)とか(ii)とか存在しないが、どこを参照しているのか？
 - 188各証券ごとというのは、ネッティング可能なプロダクトごとということ？
 - 179～188精査未実施
+- 201重要性の判断基準(materiality threshold)とは？
+- 203の記述を図に書く
