@@ -377,8 +377,6 @@ The primary source of these cash flows would generally be lease or rental paymen
 •パラグラフ60の要件のいずれかが満たされない場合、150％。
 これらのキャッシュ・フローの主要な源泉は、通常、リースまたは賃料支払い、または住宅用不動産の売却である。これらのエクスポージャーの特徴は、他の居住用不動産エクスポージャーと比較して、エクスポージャーを確保する財産によって生み出されるキャッシュ・フローに大きく依存することです。
 
-
-
 68. The following types of exposures are excluded from the treatment described in paragraph 67 and instead, subject to the treatment described in paragraphs 64 to 66:
 • An exposure secured by a property that is the borrower’s primary residence;
 • An exposure secured by an income-producing residential housing unit, to an individual who has mortgaged less than a certain number of properties or housing units, as specified by national supervisors;
