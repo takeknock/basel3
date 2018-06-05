@@ -72,3 +72,12 @@ A set of securities that a company or government offers for sale.
 #### n-th-to-default
 
 
+#### CET1(Common Equity Tier1)
+損失発生時に一番に充てられるところ。
+
+#### AT1(Additional Tier1)
+
+ここで損失吸収できなければ実質破たん。
+
+#### Tier2
+Tier 1で吸収できなかった損失を吸収する。

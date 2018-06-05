@@ -21,7 +21,7 @@
 10. Exposures to the Bank for International Settlements, the International Monetary Fund, the European Central Bank, the European Union, the European Stability Mechanism (ESM) and the European Financial Stability Facility (EFSF) may receive a 0% risk weight.
 
 
-
+7. ソブリンおよび中央銀行に対するエクスポージャーは、以下のようにリスク加重される
 
 8.国の裁量で、国内通貨建てのソブリン（または中央銀行）への銀行のエクスポージャーには、リスクの軽重が適用され、その通貨で資金提供される7）。この裁量が行なわれる場合、他の国家監督当局も許可するその銀行は、その通貨で資金提供されたこのソブリン（または中央銀行）に対する国内通貨エクスポージャーに同じリスクウェートを適用する。
 9.主権者へのリスク加重エクスポージャーの目的で、監督当局は、輸出信用機関Exprot Credit Agency（ECA）によって割り当てられたカントリーリスクスコアを認識することがある。資格を得るためには、ECAはリスクスコアを公表し、OECDが合意した方法論に加入しなければならない。銀行は、監督当局が認める個々のECAが発行するリスクスコア、または「公式にサポートされている輸出クレジットの手配」に参加しているECAのコンセンサスリスクスコアを使用することを選択することができる9 OECDが合意した方法論は、最低限の輸出保険料で。これらのECAリスクスコアは、以下に詳述するようにリスク加重カテゴリーに対応する。
