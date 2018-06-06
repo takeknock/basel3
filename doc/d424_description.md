@@ -107,14 +107,23 @@ Risk weight determination
 - 以下のマップをベースに決まる
 ![](./d424/pic/p13.jpg)
 - 外部格付けのRWを使用。銀行がデューデリジェンスによって当該企業の評価を行い、もし外部格付けより低いと判定した場合、1つ上のRWバケットを割り当てる。
+- 規制目的で外部格付けを使用できるようにする法域に設立された銀行の非適格企業エクスポージャーは、43項に記載されている中小企業（SME）への格付けのないエクスポージャーを除いて、100％(40.)
 
-#### 規制目的で外部格付けを利用できる法域の銀行の場合
-
-- 
-
+#### 規制目的で外部格付けを利用できない法域の銀行の場合
+- RW: 100%。ただし以下の場合を除く。
+  - 42.を満たす投資適格法人向け
+  - 43.の中小企業(SNE)へのエクスポージャー
+  - #TODO (21.  
 7.2 Special lending
+- オブジェクトファイナンス
+- プロジェクトファイナンス
+- コモディティファイナンス
+
 ### 8. Subordinated debt, equity and other capital instruments
+- 劣後債、株式とその他資本商品
+
 ### 9. Retail exposures
+
 ### 10. Real estate exposure class
 10.1 Exposures secured by residential real estate
 10.2 Exposures secured by commercial real estate
