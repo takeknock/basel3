@@ -57,8 +57,6 @@ PO格付は証券保有者が当初投資元本を、償還日までに受領す
 #### issue
 A set of securities that a company or government offers for sale.
 
-
-
 #### remarging期間
 - 再担保がされる間隔
 - 評価額が変更されて、新しい評価額に対応する担保を受け渡しされる間隔
@@ -81,3 +79,8 @@ A set of securities that a company or government offers for sale.
 
 #### Tier2
 Tier 1で吸収できなかった損失を吸収する。
+
+
+#### Payed-in capital
+払込資本（Paid-in capital）とは、貸借対照表上の株主資本のうち、株主などが会社に払い込んだ資本。株式会社では資本金に資本準備金を加えたもの。醵出(きょしゅつ)資本。
+(https://kotobank.jp/word/払込資本-604859)

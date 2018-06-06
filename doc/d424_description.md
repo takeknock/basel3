@@ -27,7 +27,7 @@ $\frac{\mathrm{(CET1 + AT1 + Tier2)}}{\mathrm{RWAs}(\mathrm{credit, operational,
   ...
 
 ## ポイント
-- RWAの過度な変化を防ぐ
+- RWAの過度な変化を防ぐ。そのための、
   - Due diligence requirements
   - RWの見直し
 
@@ -39,32 +39,47 @@ $\frac{\mathrm{(CET1 + AT1 + Tier2)}}{\mathrm{RWAs}(\mathrm{credit, operational,
 ![](./d424/pic/p5.jpg)
 
 ### 2. Exposures to non-central government public sector entities(PSEs)
-- 政府関係機関向け円建てエクスポージャー: 10%
+- PSE:政府関係機関、地方公社等
+
+<!-- - 政府関係機関向け円建てエクスポージャー: 10%
 - 地方3公社向け円建てエクスポージャー: 20%
-- 外貨建てエクスポージャー: 国の格付けによって、金融機関向けエクスポージャーに従って決まる
+- 外貨建てエクスポージャー: 国の格付けによって、金融機関向けエクスポージャーに従って決まる -->
 
-
+- 自国のPSEについては、以下のいずれかの方法で国の裁量で決定。
 ![](./d424/pic/p5_1.jpg)
 ![](./d424/pic/p6.jpg)
+- ある国が自国のPSEに自国ソブリン格付けを割り当てている場合、他国銀行は他国当局の許可があれば、その格付けを利用できる。
 
 
 ### 3. Exposures to multilateral development banks(MDBs)
-- 以下の0%要件を満たすか？
-  1. #TODO
-  2. 
-- 満たさない場合&&規制目的で外部格付け使用可能な法域に自銀行が存在する場合、以下で判定↓
+- MDB: 多国間開発銀行。複数国が権限を持つオーナーとなっている場合が多い。
+- Basel Committeeが以下の適格基準に基づいて、対象MDBに対するエクスポージャーに適用するRWを0%とするか判断。
+  1. 非常に高品質の長期発行体格付を持つ
+  2. 長期発行体の外部格付AA-以上のソブリンが株主構成の大部分を占める or 資金調達の大半がPayed-in capital(払込資本) or レバレッジなし
+  3. 株主からの強力なサポート
+  4. 資本と流動性が適切な水準であること
+  5. 厳格な法定貸出要件と保守的なfinancial policyを持っている
+- 上記を満たさない場合、かつ、規制目的で外部格付け使用可能な法域に自銀行が存在する場合、以下で判定：
 
 ![](./d424/pic/p7.jpg)
 
-- 上記いずれも満たさない場合、50%のリスクウェイト
+- 上記いずれも満たさない場合、50%のRW
 
 ### 4. Exposures to banks
 Risk weight determination
 (a). External Credit Risk Assessment Approach(ECRA)
+- 規制目的で外部格付けを使用できるようにする法域にある銀行向け。98〜116項を適用して、どの格付けを使用できるか、どのエクスポージャーを使用するかを決定
 ![](./d424/pic/p8.jpg)
+- 短期(当初満期3M以下、もしくは当初満期6M以下の他国銀行との取引)取引には、短期向けRWテーブルを適用。
+- 要デューデリ。デューデリ結果によって適用RWを変更できるが低いRWを適用することは不可。
 
 (b). Standardised CreditRisk Assessment Approach(SCRA)
-- 銀行のグレードを3つに分けて、リスクウェイトを決定。
+- 規制目的で外部格付の使用を認めない法域にある銀行、認められるが外部格付けのついていない銀行対象
+- カウンターパーティーとなる銀行のグレードを3つに分けて、グレードを割り当て。グレードに応じたリスクウェイトを適用。
+- Grade A:
+  - 景気によらず適時の資金拠出が可能
+  - 国の監督当局が定める最低規制資本要件を満たす。
+
 ![](./d424/pic/p9.jpg)
 
 ### 5. Exposures to covered bond
@@ -89,6 +104,7 @@ Risk weight determination
 - 外部格付けのRWを使用。銀行がデューデリジェンスによって当該企業の評価を行い、もし外部格付けより低いと判定した場合、1つ上のRWバケットを割り当てる。
 
 #### 規制目的で外部格付けを利用できる法域の銀行の場合
+
 - 
 
 7.2 Special lending
@@ -103,11 +119,6 @@ Risk weight determination
 
 ### 13. Defaulted exposures
 ### 14. Other assets
-
-# Introduction
-
-# A. Individual exposure
-- 
 
 # B. Recognition of external ratings by national supervisors 
 規制目的で外部格付けを使用できる管轄区域において、銀行は、スタート地点として、98〜116項に従って、国家監督当局によって資本目的の適格であると認められる外部の信用評価機関による評価を使用する
