@@ -61,7 +61,10 @@ A set of securities that a company or government offers for sale.
 - 再担保がされる間隔
 - 評価額が変更されて、新しい評価額に対応する担保を受け渡しされる間隔
 #### SFT
+Securities Financing Transaction。証券金融取引。
+
 #### ヘアカットフロア
+
 #### レポ形式取引
 - repo-style transactions (ie repo/reverse repos and securities lending/borrowing)(paragraph 169.)
 
@@ -93,3 +96,14 @@ Tier 1で吸収できなかった損失を吸収する。
 #### カバードボンド
 金融機関が保有する貸付債権を担保として発行される債券。信用力の高い住宅ローンや地方公共団体向け債権などを担保として発行する。
 https://www.nomura.co.jp/terms/japan/ka/A02508.html
+
+#### 投機的非上場株式エクスポージャー
+投機的非上場株式エクスポージャーは、短期再売却目的で投資される非上場企業への持分投資として定義されるか、またはベンチマーク・キャピタルまたは類似の投資とみなされ、将来のキャピタル・ゲインを見越して取得される。(51)
+
+#### ミューチュアルファンド
+米国の一般的な投資信託の通称で、複数の投資家が資金を提供し共同で運用を行う、オープンエンド型投資信託のことをいいます。また、オープンエンド型投資信託とは、請求により随時解約のできるファンドのこと
+https://www.ifinance.ne.jp/glossary/fund/fun074.html
+
+#### UCITS
+UCITSとは、EU（欧州連合）の法律に従って設立・運用されている投資ファンドのことです。具体的には、EUの法律「UCITSに関する欧州委員会指令」を満たしているファンド
+https://www.toushin.com/faq/foreign-faq/ucits/
