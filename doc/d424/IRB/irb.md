@@ -876,3 +876,732 @@ HVCREのリスクウェイトは以下のとおりです。
 
 
 
+3. Treatment of EL and provisions
+151. As specified in paragraphs 61 and 73 of the Basel III framework (June 2011), banks using the IRB approach must compare the total amount of total eligible provisions (as defined in paragraph 147) with the total EL amount as calculated within the IRB approach (as defined in paragraph 142). In addition, paragraph 60 of the Basel III framework (June 2011) outlines the treatment for that portion of a bank that is subject to the standardised approach for credit risk when the bank uses both the standardised and IRB approaches.
+152. Where the calculated EL amount is lower than the total eligible provisions of the bank, its supervisors must consider whether the EL fully reflects the conditions in the market in which it operates before allowing the difference to be included in Tier 2 capital. If specific provisions exceed the EL amount on defaulted assets this assessment also needs to be made before using the difference to offset the EL amount on non-defaulted assets.
+153. The treatment of EL and provisions related to securitisation exposures is outlined in paragraph 37 of the securitisation framework.
+
+### 3. ELおよび引当金の扱い
+151. バーゼルⅢの枠組み（2011年6月）のパラグラフ61および73に規定されているように、IRBアプローチを採用している銀行は、（147項で定義されている）適格総額の合計額を、IRBアプローチ（パラグラフ142で定義されている）。さらに、バーゼルIIIの枠組み（2011年6月）の第60項は、銀行が標準化アプローチとIRBアプローチの両方を使用している場合に、信用リスクの標準化されたアプローチの対象となる銀行の部分の取り扱いを概説している。
+152. 計算されたEL金額が銀行の適格規定の総額を下回る場合、監督当局は、Tier 2資本に差額を含めることを許可する前に、ELがその市場における条件を完全に反映しているかどうかを検討しなければならない。特定の規定が不履行資産のEL金額を上回る場合、相殺されていない資産のEL金額を相殺するために差額を使用する前に、この評価を行う必要があります。
+153. 証券化エクスポージャーに関するELおよび引当金の取扱いは、証券化枠組みのパラグラフ37に概説されている。
+
+
+H. Minimum requirements for IRB approach
+154. Section H presents the minimum requirements for entry and on-going use of the IRB approach. The minimum requirements are set out in 12 separate sections concerning: (a) composition of minimum requirements; (b) compliance with minimum requirements; (c) rating system design; (d) risk rating system operations; (e) corporate governance and oversight; (f) use of internal ratings; (g) risk quantification; (h) validation of internal estimates; (i) supervisory LGD and EAD estimates; (j) requirements for recognition of leasing; (k) calculation of capital charges for equity exposures; and (l) disclosure requirements. It may be helpful to note that the minimum requirements cut across asset classes. Therefore, more than one asset class may be discussed within the context of a given minimum requirement.
+1. Composition of minimum requirements
+155. To be eligible for the IRB approach a bank must demonstrate to its supervisor that it meets certain minimum requirements at the outset and on an ongoing basis. Many of these requirements are in the form of objectives that a qualifying bank’s risk rating systems must fulfil. The focus is on banks’ abilities to rank order and quantify risk in a consistent, reliable and valid fashion.
+156. The overarching principle behind these requirements is that rating and risk estimation systems and processes provide for a meaningful assessment of borrower and transaction characteristics; a meaningful differentiation of risk; and reasonably accurate and consistent quantitative estimates of risk. Furthermore, the systems and processes must be consistent with internal use of these estimates. The Committee recognises that differences in markets, rating methodologies, banking products, and practices require banks and supervisors to customise their operational procedures. It is not the Committee’s intention to dictate the form or operational detail of banks’ risk management policies and practices. Each supervisor will develop detailed review procedures to ensure that banks’ systems and controls are adequate to serve as the basis for the IRB approach.
+157. The minimum requirements set out in this document apply to all asset classes unless noted otherwise. The standards related to the process of assigning exposures to borrower or facility grades (and
+Basel III: Finalising post-crisis reforms 83
+the related oversight, validation, etc) apply equally to the process of assigning retail exposures to pools of homogenous exposures, unless noted otherwise.
+158. The minimum requirements set out in this document apply to both foundation and advanced approaches unless noted otherwise. Generally, all IRB banks must produce their own estimates of PD22 and must adhere to the overall requirements for rating system design, operations, controls, and corporate governance, as well as the requisite requirements for estimation and validation of PD measures. Banks wishing to use their own estimates of LGD and EAD must also meet the incremental minimum requirements for these risk factors included in paragraphs 235 to 263.
+
+
+
+### H. IRBアプローチの最小要件
+154. セクションHは、IRBアプローチの進入および継続的使用のための最低要件を提示する。最小要件は、以下の12の個別のセクションで設定されている。（a）最小要件の構成。 （b）最小要件の遵守。 （c）評価システム設計。 （d）リスク評価システムの運用。 （e）コーポレートガバナンスおよび監督（f）内部格付けの使用。 （g）リスク定量化。 （h）内部見積りの検証。 （i）監督当局のLGDおよびEADの見積もり。 （j）リースの認識に関する要件。 （k）株式エクスポージャーの資本費用の計算。 （l）開示要件。最低限の要件が資産クラス全体で削減されていることに注意してください。したがって、所与の最小要件の文脈内で、複数の資産クラスについて議論することができる。
+#### 1.最小要件の構成
+155. IRBアプローチの資格を得るためには、銀行は監督当局に対し、当初および最低限の最低要件を満たしていることを実証しなければならない。これらの要件の多くは、対象となる銀行のリスク・レーティング・システムが満たさなければならない目標の形である。その焦点は、注文をランク付けし、一貫性があり、信頼性があり、有効な方法でリスクを定量化する銀行の能力にあります。
+156. これらの要件の背後にある最も重要な原則は、評価およびリスク評価システムおよびプロセスが借り手および取引特性の有意義な評価を提供することである。リスクの有意な差別化。合理的に正確で一貫した定量的なリスク推定値を提供する。さらに、システムとプロセスは、これらの見積りの内部使用と整合していなければなりません。当委員会は、市場、格付け手法、銀行商品および慣行の違いにより、銀行および監督当局は業務手順をカスタマイズする必要があることを認識している。銀行のリスク管理方針および慣行の形式または運用上の詳細を指示するのは委員会の意図ではない。各監督当局は、銀行のシステムおよび統制がIRBのアプローチの基礎として機能するのに十分なものであることを確実にするための詳細な審査手続を策定する。
+157. 本書に記載されている最低限の要件は、特段の記載がない限り、すべての資産クラスに適用されます。エクスポージャーを借り手または施設のグレードに割り当てるプロセスに関連する基準（および
+バーゼルⅢ：危機後改革の終結83
+関連する監督、妥当性確認など）は、別段の記載がない限り、同種のエクスポージャーのプールに小売エクスポージャーを割り当てるプロセスにも等しく適用される。
+158. この文書に記載されている最低限の要件は、特に明記しない限り、基礎と先進のアプローチの両方に適用されます。一般的に、すべてのIRB銀行はPD22の独自の見積もりを作成しなければならず、格付制度の設計、運用、統制、コーポレートガバナンスの全体的な要件、ならびにPD指標の見積もりおよび検証のための必要条件を遵守しなければならない。 LGDおよびEADの独自の見積りを使用することを希望する銀行は、パラグラフ235から263に含まれるこれらのリスク要因の増分最小要件を満たさなければならない。
+
+2. Compliance with minimum requirements
+159. To be eligible for an IRB approach, a bank must demonstrate to its supervisor that it meets the IRB requirements in this document, at the outset and on an ongoing basis. Banks’ overall credit risk management practices must also be consistent with the evolving sound practice guidelines issued by the Committee and national supervisors.
+160. There may be circumstances when a bank is not in complete compliance with all the minimum requirements. Where this is the case, the bank must produce a plan for a timely return to compliance, and seek approval from its supervisor, or the bank must demonstrate that the effect of such non-compliance is immaterial in terms of the risk posed to the institution. Failure to produce an acceptable plan or satisfactorily implement the plan or to demonstrate immateriality will lead supervisors to reconsider the bank’s eligibility for the IRB approach. Furthermore, for the duration of any non-compliance, supervisors will consider the need for the bank to hold additional capital under Pillar 2 or take other appropriate supervisory action.
+3. Rating system design
+161. The term “rating system” comprises all of the methods, processes, controls, and data collection and IT systems that support the assessment of credit risk, the assignment of internal risk ratings, and the quantification of default and loss estimates.
+162. Within each asset class, a bank may utilise multiple rating methodologies/systems. For example, a bank may have customised rating systems for specific industries or market segments (eg middle market, and large corporate). If a bank chooses to use multiple systems, the rationale for assigning a borrower to a rating system must be documented and applied in a manner that best reflects the level of risk of the borrower. Banks must not allocate borrowers across rating systems inappropriately to minimise regulatory capital requirements (ie cherry-picking by choice of rating system). Banks must demonstrate that each system used for IRB purposes is in compliance with the minimum requirements at the outset and on an ongoing basis.
+(i) Rating dimensions
+Standards for corporate and bank exposures
+163. A qualifying IRB rating system must have two separate and distinct dimensions: (i) the risk of borrower default; and (ii) transaction-specific factors.
+164. The first dimension must be oriented to the risk of borrower default. Separate exposures to the same borrower must be assigned to the same borrower grade, irrespective of any differences in the nature of each specific transaction. There are two exceptions to this. Firstly, in the case of country transfer risk, where a bank may assign different borrower grades depending on whether the facility is denominated in local or foreign currency. Secondly, when the treatment of associated guarantees to a facility may be reflected in an adjusted borrower grade. In either case, separate exposures may result in multiple grades for the same borrower. A bank must articulate in its credit policy the relationship between borrower grades in terms of the level of risk each grade implies. Perceived and measured risk must increase as credit quality declines from one grade to the next. The policy must articulate the risk of each grade in terms of both a description of the probability of default risk typical for borrowers assigned the grade and the criteria used to distinguish that level of credit risk.
+165. The second dimension must reflect transaction-specific factors, such as collateral, seniority, product type, etc. For exposures subject to the foundation IRB approach, this requirement can be fulfilled by the existence of a facility dimension, which reflects both borrower and transaction-specific factors. For example, a rating dimension that reflects EL by incorporating both borrower strength (PD) and loss severity (LGD) considerations would qualify. Likewise a rating system that exclusively reflects LGD would qualify. Where a rating dimension reflects EL and does not separately quantify LGD, the supervisory estimates of LGD must be used.
+166. For banks using the advanced approach, facility ratings must reflect exclusively LGD. These ratings can reflect any and all factors that can influence LGD including, but not limited to, the type of collateral, product, industry, and purpose. Borrower characteristics may be included as LGD rating criteria only to the extent they are predictive of LGD. Banks may alter the factors that influence facility grades across segments of the portfolio as long as they can satisfy their supervisor that it improves the relevance and precision of their estimates.
+
+
+#### 2.最小要件の遵守
+159. IRBのアプローチを受けるためには、銀行は監督当局に対し、本書のIRB要件を当初から、継続的に満たしていることを証明しなければならない。銀行の総合的な信用リスク管理慣行は、委員会および国家監督当局によって発行された健全な慣習ガイドラインと一貫していなければならない。
+160. 銀行が最低限の要件をすべて遵守していない場合があります。この場合、銀行はコンプライアンスへのタイムリーな復帰のための計画を作成し、監督当局からの承認を求めなければならない、あるいは、銀行は、そのような違反の影響が、 。許容可能な計画を作成しなかったり、計画を満足に実行したり、重要性を実証しなかったりすると、監督当局は銀行のIRBアプローチの適格性を再考するだろう。さらに、コンプライアンス違反の期間中、監督当局は、銀行がピラー2の下で追加の資本を保有する必要性、またはその他の適切な監督措置をとる必要性を考慮する。
+#### 3.評価システム設計
+161. 「格付けシステム」という用語は、信用リスクの評価、内部リスク格付けの割り当て、デフォルトおよび損失見積もりの​​定量化を支援する方法、プロセス、コントロール、およびデータ収集およびITシステムのすべてを含む。
+各資産クラスにおいて、銀行は複数の格付手法/システムを利用することができる。例えば、銀行は、特定の産業または市場セグメント（例えば、中間市場および大企業）に対する格付けシステムをカスタマイズすることができる。銀行が複数のシステムを使用することを選択した場合、借り手を格付けシステムに割り当てる根拠は、借り手のリスクのレベルを最も反映した形で文書化し適用する必要があります。銀行は規制資本要件を最小限に抑えるために格付けシステム間で借り手を不当に配分してはならない（すなわち、レーティングシステムの選択によるチェリーピッキング）。銀行は、IRBの目的に使用される各システムが、当初および最低限の要件を満たしていることを証明しなければなりません。
+#####（i）定格寸法
+企業および銀行エクスポージャーの基準
+163. 適格IRB格付けシステムには、2つの別個の明確な次元がなければならない：（i）借り手の債務不履行のリスク。 （ii）取引固有の要因。
+164. 最初の次元は、借り手のデフォルトのリスクに向ける必要があります。特定の取引の性質の違いにかかわらず、同じ借り手に対する個別のエクスポージャーを同じ借入人グレードに割り当てる必要があります。これには2つの例外があります。第一に、銀行が現地通貨または外国通貨で建てられているかどうかに応じて異なる借り手の等級を割り当てることができる、国移転リスクの場合。第2に、施設に対する関連する保証の取扱いが調整された借り手の等級に反映される場合。いずれの場合も、別個のエクスポージャーが同じ借り手に対して複数の成績をもたらす可能性があります。銀行は、借り手の成績と各成績のリスク水準との関係を信用方針に明記しなければなりません。認知され、測定されたリスクは、信用の質があるグレードから次のグレードに低下するにつれて増加しなければならない。この方針は、グレードに割り当てられた借り手にとって典型的なデフォルトリスクの確率と、そのレベルの信用リスクを区別するために使用される基準の両方について、各グレードのリスクを明確にする必要があります。
+165. 第2の次元は、担保、年功、商品タイプなどの取引固有の要因を反映していなければならない。基礎IRBアプローチの対象となるエクスポージャーについては、借り手と借り手の両方を反映するファシリティディメンションの存在によってこの要件を満たすことができるトランザクション固有の要因。例えば、借り手の強さ（PD）と損失の重大性（LGD）の両方の考慮事項を組み込むことによってELを反映する格付けディメンションが適格となる。同様に、LGDを独占的に反映する格付けシステムも適格となる。評価ディメンションがELを反映し、LGDを別個に定量化しない場合、LGDの監督上の見積りを使用しなければならない。
+166. 先進的なアプローチを採用している銀行にとっては、設備格付けはLGDのみを反映しなければならない。これらの格付は、担保の種類、製品、業界および目的を含むが、これに限定されないLGDに影響を与える可能性のあるすべての要因を反映する可能性がある。借入人の特徴は、LGDの格付け基準として、LGDを予測する程度にのみ含めることができる。銀行は、監督者を満足させることができれば、見積もりの​​関連性と精度を向上させる限り、ポートフォリオのセグメント間で施設の成績に影響を与える要因を変更する可能性があります。
+
+167. Banks using the supervisory slotting criteria are exempt from this two-dimensional requirement for these exposures. Given the interdependence between borrower/transaction characteristics in exposures subject to the supervisory slotting approaches, banks may satisfy the requirements under this heading through a single rating dimension that reflects EL by incorporating both borrower strength (PD) and loss severity (LGD) considerations. This exemption does not apply to banks using the general corporate foundation or advanced approach for the SL sub-class.
+
+168. Rating systems for retail exposures must be oriented to both borrower and transaction risk, and must capture all relevant borrower and transaction characteristics. Banks must assign each exposure that falls within the definition of retail for IRB purposes into a particular pool. Banks must demonstrate that this process provides for a meaningful differentiation of risk, provides for a grouping of sufficiently homogenous exposures, and allows for accurate and consistent estimation of loss characteristics at pool level.
+169. For each pool, banks must estimate PD, LGD, and EAD. Multiple pools may share identical PD, LGD and EAD estimates. At a minimum, banks should consider the following risk drivers when assigning exposures to a pool:
+• Borrower risk characteristics (eg borrower type, demographics such as age/occupation);
+• Transaction risk characteristics, including product and/or collateral types (eg loan to value measures, seasoning,23 guarantees; and seniority (first vs. second lien)). Banks must explicitly address cross-collateral provisions where present.
+• Delinquency of exposure: Banks are expected to separately identify exposures that are delinquent and those that are not.
+
+167. 監視スロッティング基準を使用している銀行は、これらのエクスポージャーのこの2次元的要件から免除される。銀行は、監督上のスロッティング・アプローチの対象となるエクスポージャーにおける借り手/取引特性の相互依存性を考慮して、借り手の強さ（PD）と損失の重大性（LGD）の両方の考慮事項を組み込むことによってELを反映する単一の格付けディメンションを通じてこの見出しの要件を満たすことができる。この免除は、SLサブクラスの一般的な企業基盤または先進的アプローチを使用する銀行には適用されません。
+
+168. 小売エクスポージャーの格付けシステムは、借り手と取引のリスクの両方に対応する必要があり、関連するすべての借り手と取引の特性を把握する必要があります。銀行は、IRB目的の小売りの定義に該当する各エクスポージャーを特定のプールに割り当てる必要があります。銀行は、このプロセスがリスクの有意差を提供し、十分均等なエクスポージャーのグループ分けを提供し、プールレベルでの損失特性の正確かつ一貫した評価を可能にすることを証明しなければならない。
+各プールについて、銀行はPD、LGD、およびEADを見積もらなければならない。複数のプールは、同一のPD、LGDおよびEADの見積もりを共有してもよい。プールにエクスポージャーを割り当てる際、最低限、銀行は以下のリスク要因を考慮する必要があります。
+- 借り手のリスク特性（例えば、借り手のタイプ、年齢/職業などの人口統計）。
+- 商品および/または担保のタイプ（ローン・バリュー・バリュー、シーズニング、保証、年功（第1順位vs.第2順位））などの取引リスク特性。銀行は、存在する場合には相互担保の規定に明示的に対処しなければならない。
+- エクスポージャーの延滞：銀行は、延滞しているエクスポージャーとそうでないエクスポージャーを個別に識別することが予想される。
+
+(ii) Rating structure
+Standards for corporate and bank exposures
+170. A bank must have a meaningful distribution of exposures across grades with no excessive concentrations, on both its borrower-rating and its facility-rating scales.
+171. To meet this objective, a bank must have a minimum of seven borrower grades for non-defaulted borrowers and one for those that have defaulted. Banks with lending activities focused on a particular market segment may satisfy this requirement with the minimum number of grades.
+172. A borrower grade is defined as an assessment of borrower risk on the basis of a specified and distinct set of rating criteria, from which estimates of PD are derived. The grade definition must include both a description of the degree of default risk typical for borrowers assigned the grade and the criteria used to distinguish that level of credit risk. Furthermore, “+” or “-” modifiers to alpha or numeric grades will only qualify as distinct grades if the bank has developed complete rating descriptions and criteria for their assignment, and separately quantifies PDs for these modified grades.
+173. Banks with loan portfolios concentrated in a particular market segment and range of default risk must have enough grades within that range to avoid undue concentrations of borrowers in particular grades. Significant concentrations within a single grade or grades must be supported by convincing empirical evidence that the grade or grades cover reasonably narrow PD bands and that the default risk posed by all borrowers in a grade fall within that band.
+174. There is no specific minimum number of facility grades for banks using the advanced approach for estimating LGD. A bank must have a sufficient number of facility grades to avoid grouping facilities with widely varying LGDs into a single grade. The criteria used to define facility grades must be grounded in empirical evidence.
+175. Banks using the supervisory slotting criteria must have at least four grades for non-defaulted borrowers, and one for defaulted borrowers. The requirements for SL exposures that qualify for the corporate foundation and advanced approaches are the same as those for general corporate exposures.
+Standards for retail exposures
+176. For each pool identified, the bank must be able to provide quantitative measures of loss characteristics (PD, LGD, and EAD) for that pool. The level of differentiation for IRB purposes must ensure that the number of exposures in a given pool is sufficient so as to allow for meaningful quantification and validation of the loss characteristics at the pool level. There must be a meaningful distribution of borrowers and exposures across pools. A single pool must not include an undue concentration of the bank’s total retail exposure.
+(iii) Rating criteria
+177. A bank must have specific rating definitions, processes and criteria for assigning exposures to grades within a rating system. The rating definitions and criteria must be both plausible and intuitive and must result in a meaningful differentiation of risk.
+• The grade descriptions and criteria must be sufficiently detailed to allow those charged with assigning ratings to consistently assign the same grade to borrowers or facilities posing similar risk. This consistency should exist across lines of business, departments and geographic locations. If rating criteria and procedures differ for different types of borrowers or facilities, the bank must monitor for possible inconsistency, and must alter rating criteria to improve consistency when appropriate.
+• Written rating definitions must be clear and detailed enough to allow third parties to understand the assignment of ratings, such as internal audit or an equally independent function and supervisors, to replicate rating assignments and evaluate the appropriateness of the grade/pool assignments.
+• The criteria must also be consistent with the bank’s internal lending standards and its policies for handling troubled borrowers and facilities.
+
+
+#####（ii）レーティング構造
+###### 企業および銀行エクスポージャーの基準
+170. 銀行は、借り手格付と施設格付けの両方の尺度において、過度の集中を伴わずにグレード間で有意なエクスポージャーの分布を持たなければならない。
+この目的を達成するためには、銀行は、債務不履行が生じていない借り手に対しては最低7つの借り手格付を、デフォルトしていない借り手には最低7つの借り手格付けを持たなければならない。特定の市場セグメントに焦点を当てた貸出活動を行っている銀行は、最低限の成績でこの要件を満たすことができます。
+172. 借り手等級は、PDの推定値を導出する特定の明確な格付け基準に基づいて、借り手リスクの評価と定義される。グレード定義には、グレードに割り当てられた借り手にとって典型的なデフォルトリスクの度合いと、そのレベルの信用リスクを区別するために使用される基準の両方を含める必要があります。さらに、アルファまたは数値のグレードに対する「+」または「 - 」修飾子は、銀行が完全な格付の記述およびその基準を開発し、これらのグレードのPDを個別に定量化する場合にのみ、格付けが格付けされます。
+173. 融資ポートフォリオが特定の市場セグメントに集中し、デフォルトリスクの範囲がある銀行は、特定のグレードの借り手の過度の集中を避けるために、その範囲内で十分な成績を持っていなければならない。グレードまたはグレードが合理的に狭いPDバンドをカバーしていること、およびそのグレード内のすべての借り手が負うデフォルトリスクがそのバンドに該当するという経験的証拠を確信することによって、1つのグレードまたはグレード内の重要な濃度をサポートする必要があります。
+174. LGDを評価するための先進的なアプローチを用いて銀行に特定の最低限の施設格付けはない。銀行は、広く変化するLGDを備えた施設を1つの等級に分類するのを避けるために、十分な数の施設等級を持たなければならない。施設等級を定義する基準は、経験的な証拠に基づいていなければならない。
+175. 監督用スロッティング基準を使用している銀行は、デフォルトされていない借り手と、デフォルト債務者に対して少なくとも4つの等級を持っていなければならない。企業基盤と高度なアプローチに適格なSLエクスポージャーの要件は、一般企業のエクスポージャーの要件と同じです。
+###### 小売エクスポージャーの基準
+176. 識別された各プールについて、銀行はそのプールの損失特性（PD、LGD、およびEAD）の定量的尺度を提供できなければならない。 IRBの目的のための差別化のレベルは、特定のプールにおけるエクスポージャーの数が、プールレベルでの損失特性の有意義な定量化および検証を可能にするのに十分であることを保証しなければならない。プール全体にわたる借り手とエクスポージャーの有意義な分配が必要です。単一のプールには、銀行の合計小売エクスポージャーの過度の集中が含まれてはならない。
+#####（iii）評価基準
+177. 銀行は、格付けシステム内の成績にエクスポージャーを割り当てるための特定の格付定義、プロセスおよび基準を持たなければならない。格付けの定義と基準は、もっともらしく、直観的でなければならず、リスクを有意に区別する必要があります。
+•格付けの記述および基準は、格付を付与することにより請求された者が、同等のリスクを負っている借り手または施設に同じ格付けを一貫して割り当てることができるように、十分詳細に記述されなければならない。この一貫性は、一連のビジネス、部門、地理的な場所に存在する必要があります。格付基準と手続が借り手や施設の種類によって異なる場合、銀行は矛盾の可能性を監視し、適切な場合には一貫性を高めるために格付基準を変更しなければならない。
+•書面による格付けの定義は、第三者が内部監査または同等に独立した機能や監督者のような格付けの割り当てを理解し、格付け割り当てを複製し、格付け/プール割り当ての妥当性を評価するのに十分なほど明確で詳細でなければならない。
+•基準はまた、銀行の内部貸出基準および問題のある借り手および施設を取り扱うための方針と一貫していなければならない。
+
+178. To ensure that banks are consistently taking into account available information, they must use all relevant and material information in assigning ratings to borrowers and facilities. Information must be current. The less information a bank has, the more conservative must be its assignments of exposures to borrower and facility grades or pools. An external rating can be the primary factor determining an internal rating assignment; however, the bank must ensure that it considers other relevant information.
+Exposures subject to the supervisory slotting approach
+179. Banks using the supervisory slotting criteria must assign exposures to their internal rating grades based on their own criteria, systems and processes, subject to compliance with the requisite minimum requirements. Banks must then map these internal rating grades into the five supervisory rating categories. Tables 1 to 4 in Annex 6 of the Basel II framework (June 2006) provide, for each sub-class of SL exposures, the general assessment factors and characteristics exhibited by the exposures that fall under each of the supervisory categories. Each lending activity has a unique table describing the assessment factors and characteristics.
+180. The Committee recognises that the criteria that banks use to assign exposures to internal grades will not perfectly align with criteria that define the supervisory categories; however, banks must demonstrate that their mapping process has resulted in an alignment of grades which is consistent with the preponderance of the characteristics in the respective supervisory category. Banks should take special care to ensure that any overrides of their internal criteria do not render the mapping process ineffective.
+(iv) Rating assignment horizon
+181. Although the time horizon used in PD estimation is one year (as described in paragraph 215), banks are expected to use a longer time horizon in assigning ratings.
+182. A borrower rating must represent the bank’s assessment of the borrower’s ability and willingness to contractually perform despite adverse economic conditions or the occurrence of unexpected events. The range of economic conditions that are considered when making assessments must be consistent with current conditions and those that are likely to occur over a business cycle within the respective industry/geographic region. Rating systems should be designed in such a way that idiosyncratic or industry-specific changes are a driver of migrations from one category to another, and business cycle effects may also be a driver.
+183. PD estimates for borrowers that are highly leveraged or for borrowers whose assets are predominantly traded assets must reflect the performance of the underlying assets based on periods of stressed volatilities.
+184. Given the difficulties in forecasting future events and the influence they will have on a particular borrower’s financial condition, a bank must take a conservative view of projected information. Furthermore, where limited data are available, a bank must adopt a conservative bias to its analysis.
+
+178. 利用可能な情報を常に考慮に入れていくためには、借り手と施設に格付けを付ける上で関連性のある重要な情報をすべて使用しなければならない。情報は最新のものでなければなりません。銀行の情報が少ないほど、借り手や施設の等級やプールへのエクスポージャーの割り当てがより慎重でなければなりません。外部格付は、内部格付割当を決定する主要要因となり得る。しかし、銀行は他の関連情報を確実に考慮しなければならない。
+###### 監督当局によるスロッティングアプローチの対象となるエクスポージャー
+179. 監視スロッティング基準を使用する銀行は、必要最低限​​の要件を満たしていれば、自己の基準、システムおよびプロセスに基づいて内部格付グレードにエクスポージャーを割り当てる必要があります。銀行はこれらの内部格付けの格付けを5つの監督格付けカテゴリーにマッピングしなければならない。バーゼルⅡの枠組み（2006年6月）の附属書6の表1〜表4は、SL曝露の各サブクラスについて、各監督部門に該当するエクスポージャーが示す一般的な評価要因と特徴を示している。各貸出活動には、評価要因および特性を説明するユニークな表があります。
+180. 当委員会は、内部格付にエクスポージャーを割り当てるために銀行が使用する基準は、監督部門を定義する基準と完全に一致しないことを認識している。しかし、銀行は、それぞれの監督部門における特性の優位性と一致する格付けの整合を結果としてもたらしていることを銀行が証明しなければならない。銀行は、内部基準を上書きしてもマッピングプロセスを無効にしないように特別な注意を払う必要があります。
+##### （iv）評価譲渡の地平線
+181. PD推定に使用される時間枠は1年である（215節で説明されているように）が、銀行は格付けを決定するのにより長い時間軸を用いることが期待される。
+182. 借り手の格付けは、不利な経済状況や予期せぬ事象の発生にもかかわらず、借り手の能力と契約上の意欲の銀行の評価を表すものでなければならない。アセスメントを行う際に考慮される経済条件の範囲は、現在の状況、および各業界/地域内のビジネスサイクルにわたって発生する可能性のある条件と一致していなければなりません。格付けシステムは、独特な変化や業種別の変化があるカテゴリから別のカテゴリへの移行の原動力となるように設計され、ビジネスサイクル効果もまたドライバーになる可能性があります。
+183. 高度にレバレッジされた借り手または資産が主に取引される資産である借り手のPD見積りは、ストレス時のボラティリティの期間に基づいて原資産のパフォーマンスを反映しなければならない。
+184. 将来の出来事を予測することが困難であり、特定の借り手の財政状態に及ぼす影響を考慮すると、銀行は予測される情報を慎重に見なければならない。さらに、限られたデータが入手可能な場合、銀行はその分析に控えめなバイアスをとらなければならない。
+
+
+
+(v) Use of models
+185. The requirements in this section apply to statistical models and other mechanical methods used to assign borrower or facility ratings or in estimation of PDs, LGDs, or EADs. Credit scoring models and other mechanical rating procedures generally use only a subset of available information. Although mechanical rating procedures may sometimes avoid some of the idiosyncratic errors made by rating systems in which human judgement plays a large role, mechanical use of limited information also is a source of rating errors. Credit scoring models and other mechanical procedures are permissible as the primary or partial basis of rating assignments, and may play a role in the estimation of loss characteristics. Sufficient human judgement and human oversight is necessary to ensure that all relevant and material information, including that which is outside the scope of the model, is also taken into consideration, and that the model is used appropriately.
+• The burden is on the bank to satisfy its supervisor that a model or procedure has good predictive power and that regulatory capital requirements will not be distorted as a result of its use. The variables that are input to the model must form a reasonable set of predictors. The model must be accurate on average across the range of borrowers or facilities to which the bank is exposed and there must be no known material biases.
+• The bank must have in place a process for vetting data inputs into a statistical default or loss prediction model which includes an assessment of the accuracy, completeness and appropriateness of the data specific to the assignment of an approved rating.
+• The bank must demonstrate that the data used to build the model are representative of the population of the bank’s actual borrowers or facilities.
+• When combining model results with human judgement, the judgement must take into account all relevant and material information not considered by the model. The bank must have written guidance describing how human judgement and model results are to be combined.
+• The bank must have procedures for human review of model-based rating assignments. Such procedures should focus on finding and limiting errors associated with known model weaknesses and must also include credible ongoing efforts to improve the model’s performance.
+• The bank must have a regular cycle of model validation that includes monitoring of model performance and stability; review of model relationships; and testing of model outputs against outcomes.
+(vi) Documentation of rating system design
+186. Banks must document in writing their rating systems’ design and operational details. The documentation must evidence banks’ compliance with the minimum standards, and must address topics such as portfolio differentiation, rating criteria, responsibilities of parties that rate borrowers and facilities, definition of what constitutes a rating exception, parties that have authority to approve exceptions, frequency of rating reviews, and management oversight of the rating process. A bank must document the rationale for its choice of internal rating criteria and must be able to provide analyses demonstrating that rating criteria and procedures are likely to result in ratings that meaningfully differentiate risk. Rating criteria and procedures must be periodically reviewed to determine whether they remain fully applicable to the current portfolio and to external conditions. In addition, a bank must document a history of major changes in the risk rating process, and such documentation must support identification of changes made to the risk rating process subsequent to the last supervisory review. The organisation of rating assignment, including the internal control structure, must also be documented.
+187. Banks must document the specific definitions of default and loss used internally and demonstrate consistency with the reference definitions set out in paragraphs 220 to 228.
+88 Basel III: Finalising post-crisis reforms
+188. If the bank employs statistical models in the rating process, the bank must document their methodologies. This material must:
+• Provide a detailed outline of the theory, assumptions and/or mathematical and empirical basis of the assignment of estimates to grades, individual obligors, exposures, or pools, and the data source(s) used to estimate the model;
+• Establish a rigorous statistical process (including out-of-time and out-of-sample performance tests) for validating the model; and
+• Indicate any circumstances under which the model does not work effectively.
+189. Use of a model obtained from a third-party vendor that claims proprietary technology is not a justification for exemption from documentation or any other of the requirements for internal rating systems. The burden is on the model’s vendor and the bank to satisfy supervisors.
+
+
+#####（ⅴ）モデルの使用
+185. このセクションの要件は、借り手または施設の格付けを割り当てるために使用される統計モデルおよびその他の機械的方法、またはPD、LGD、またはEADの推定に適用されます。クレジットスコアリングモデルおよび他の機械的格付け手順は、一般に利用可能な情報のサブセットのみを使用する。機械的な格付け手続は、人間の判断が大きな役割を果たす格付けシステムによってもたらされる特有の誤りの一部を回避することがあるが、限られた情報を機械的に使用することも格付けの誤りの原因となる。クレジットスコアリングモデルおよびその他の機械的手続きは、格付け課題の主要なまたは部分的な基盤として許容され、損失特性の評価において役割を果たす可能性がある。モデルの範囲外であるものを含むすべての関連性のある重要な情報も考慮に入れ、モデルが適切に使用されるように、十分な人間の判断と人間の監視が必要です。
+- 監督当局にモデルや手続きが良い予測力を持ち、規制資本要件がその使用の結果として歪まないことを銀行に負担すること。モデルに入力される変数は、妥当な予測変数のセットを形成しなければなりません。モデルは、銀行が公開されている借り手または施設の範囲全体にわたって平均して正確でなければならず、既知の重要な偏りがない必要があります。
+- 銀行は、データ入力を統計的デフォルトまたは損失予測モデルに査定するためのプロセスを確立していなければならず、承認された格付けの割り当てに固有のデータの正確性、完全性および妥当性の評価が含まれていなければならない。
+- 銀行は、モデルを構築するために使用されたデータが銀行の実際の借り手または施設の人口を代表することを証明しなければならない。
+- モデル結果と人の判断を組み合わせる場合、その判断はモデルによって考慮されていないすべての関連性のある重要な情報を考慮する必要があります。銀行は、人間の判断とモデル結果をどのように組み合わせるべきかを記述したガイダンスを書かなければならない。
+- 銀行は、モデルベースの格付け割当の人的レビューのための手続きを持っていなければならない。このような手順は、既知のモデルの弱点に関連するエラーを見つけて制限することに焦点を当てるべきであり、モデルのパフォーマンスを改善するための信頼できる継続的な取り組みも含まなければなりません。
+- 銀行は、モデルのパフォーマンスと安定性の監視を含むモデル検証の定期的なサイクルを持つ必要があります。モデル関係の再検討。アウトカムに対するモデル出力のテスト。
+#####（vi）評価システム設計の文書化
+186. 銀行は、格付けシステムの設計および運用の詳細を書面で文書化しなければならない。証書は銀行が最低基準を遵守していることを証明しなければならず、ポートフォリオの差別化、格付基準、借り手と施設を評価する当事者の責任、格付例外を構成するものの定義、例外を承認する権限を持つ当事者、レーティングレビューの管理、レーティングプロセスの管理監督などが含まれます。銀行は、内部格付基準の選択肢の根拠を文書化し、評価基準および手続きがリスクを有意義に区別する格付けをもたらす可能性が高いことを示す分析を提供できなければならない。格付基準および手続は、現在のポートフォリオおよび外部条件に完全に適用できるかどうかを定期的に見直さなければならない。さらに、銀行はリスク格付プロセスの大きな変化の履歴を記録しなければならず、そのような証拠資料は最後の監督審査に引き続きリスク格付けプロセスに対する変更の識別を裏付けるものでなければならない。内部統制構造を含む格付けの構成も文書化しなければならない。
+187. 銀行は、内部的に使用される債務不履行および損失の特定の定義を文書化し、パラグラフ220から228に記載された参照定義との一貫性を実証しなければならない。
+188. バーゼルⅢ：危機後の改革を終結させる
+銀行が格付プロセスにおいて統計モデルを採用する場合、銀行はその手法を文書化しなければならない。この資料は、
+グレード、個々の債務者、エクスポージャー、プール、およびモデルの見積りに使用されるデータソースへの見積りの割り当てに関する理論、前提条件、および/または数学的および経験的根拠の詳細な概要を提供する。
+- モデルを検証するための厳密な統計処理（時間外およびサンプル外のパフォーマンステストを含む）を確立する。そして
+- モデルが効果的に機能しない状況を示します。
+189. 独自の技術を主張する第三者ベンダーから入手したモデルを使用することは、内部定格システムに関する文書化またはその他の要件の免除の正当性ではない。その負担は、モデルのベンダーと銀行が監督者を満足させることにあります。
+
+#### 4. Risk rating system operations
+##### (i) Coverage of ratings
+190. For corporate, and bank exposures, each borrower and all recognised guarantors must be assigned a rating and each exposure must be associated with a facility rating as part of the loan approval process. Similarly, for retail, each exposure must be assigned to a pool as part of the loan approval process.
+191. Each separate legal entity to which the bank is exposed must be separately rated. A bank must have policies acceptable to its supervisor regarding the treatment of individual entities in a connected group including circumstances under which the same rating may or may not be assigned to some or all related entities. Those policies must include a process for the identification of specific wrong way risk for each legal entity to which the bank is exposed. Transactions with counterparties where specific wrong way risk has been identified need to be treated differently when calculating the EAD for such exposures (see paragraph 58 of the counterparty credit risk standards).
+##### (ii) Integrity of rating process
+Standards for corporate and bank exposures
+192. Rating assignments and periodic rating reviews must be completed or approved by a party that does not directly stand to benefit from the extension of credit. Independence of the rating assignment process can be achieved through a range of practices that will be carefully reviewed by supervisors. These operational processes must be documented in the bank’s procedures and incorporated into bank policies. Credit policies and underwriting procedures must reinforce and foster the independence of the rating process.
+193. Borrowers and facilities must have their ratings refreshed at least on an annual basis. Certain credits, especially higher risk borrowers or problem exposures, must be subject to more frequent review. In addition, banks must initiate a new rating if material information on the borrower or facility comes to light.
+194. The bank must have an effective process to obtain and update relevant and material information on the borrower’s financial condition, and on facility characteristics that affect LGDs and EADs (such as the condition of collateral). Upon receipt, the bank needs to have a procedure to update the borrower’s rating in a timely fashion.
+
+#### 4.リスク評価システムの運用
+#####（i）格付対象範囲
+190. 企業および銀行のエクスポージャーについては、各借り手および認識されたすべての保証人に格付を付与し、ローン承認プロセスの一環として各エクスポージャーを施設格付けに関連付ける必要があります。同様に、小売では、ローン承認プロセスの一環として、各エクスポージャーをプールに割り当てる必要があります。
+191. 銀行が晒されている個別の法人は、別々に評価されなければならない。銀行は、連結されたグループ内の個々の事業体の取扱いに関して、その格付けが関連する事業体の一部または全部に割り当てられる場合とそうでない場合があるなど、上司が受け入れ可能な方針を持たなければならない。これらの方針には、銀行がさらされている法人ごとに特定の間違った方向のリスクを特定するプロセスが含まれていなければなりません。特定の間違いリスクが特定されているカウンターパーティーとの取引は、そのエクスポージャーについてEADを計算する際には異なる扱いを受ける必要があります（カウンターパーティーの信用リスク基準のパラグラフ58参照）。
+#####（ii）格付けプロセスの完全性
+企業および銀行エクスポージャーの基準
+192. 格付けの割当および定期的な格付けの見直しは、信用の拡大から利益を得るために直接立っていない当事者によって完了または承認されなければならない。格付プロセスの独立性は、監督当局が慎重に検討する一連のプラクティスを通じて達成することができる。これらの業務プロセスは、銀行の手続きで文書化され、銀行の方針に組み込まれなければならない。信用政策および引受手続は、格付プロセスの独立性を強化し、育成する必要があります。
+193. 借り手および施設は、少なくとも年に一度は格付けを更新する必要があります。特定のクレジット、特にリスクの高い借り手や問題のエクスポージャーは、より頻繁にレビューされる必要があります。さらに、借り手または施設に関する重要な情報が明らかになった場合、銀行は新しい格付を開始しなければならない。
+194. 銀行は、借り手の財政状態およびLGDおよびEADに影響を与える設備の特性（担保の条件など）に関する関連情報および重要な情報を取得および更新する有効なプロセスを有していなければならない。受領後、銀行は適時に借り手の格付けを更新する手続きを取る必要があります。
+
+###### Standards for retail exposures
+195. A bank must review the loss characteristics and delinquency status of each identified risk pool on at least an annual basis. It must also review the status of individual borrowers within each pool as a means of ensuring that exposures continue to be assigned to the correct pool. This requirement may be satisfied by review of a representative sample of exposures in the pool.
+(iii) Overrides
+196. For rating assignments based on expert judgement, banks must clearly articulate the situations in which bank officers may override the outputs of the rating process, including how and to what extent such overrides can be used and by whom. For model-based ratings, the bank must have guidelines and processes for monitoring cases where human judgement has overridden the model’s rating, variables were excluded or inputs were altered. These guidelines must include identifying personnel that are responsible for approving these overrides. Banks must identify overrides and separately track their performance.
+(iv) Data maintenance
+197. A bank must collect and store data on key borrower and facility characteristics to provide effective support to its internal credit risk measurement and management process, to enable the bank to meet the other requirements in this document, and to serve as a basis for supervisory reporting. These data should be sufficiently detailed to allow retrospective re-allocation of obligors and facilities to grades, for example if increasing sophistication of the internal rating system suggests that finer segregation of portfolios can be achieved. Furthermore, banks must collect and retain data on aspects of their internal ratings as required under Pillar 3 of this Framework.
+For corporate and bank exposures
+198. Banks must maintain rating histories on borrowers and recognised guarantors, including the rating since the borrower/guarantor was assigned an internal grade, the dates the ratings were assigned, the methodology and key data used to derive the rating and the person/model responsible. The identity of borrowers and facilities that default, and the timing and circumstances of such defaults, must be retained. Banks must also retain data on the PDs and realised default rates associated with rating grades and ratings migration in order to track the predictive power of the borrower rating system.
+199. Banks using the advanced IRB approach must also collect and store a complete history of data on the LGD and EAD estimates associated with each facility and the key data used to derive the estimate and the person/model responsible. Banks must also collect data on the estimated and realised LGDs and EADs associated with each defaulted facility. Banks that reflect the credit risk mitigating effects of guarantees/credit derivatives through LGD must retain data on the LGD of the facility before and after evaluation of the effects of the guarantee/credit derivative. Information about the components of loss or recovery for each defaulted exposure must be retained, such as amounts recovered, source of recovery (eg collateral, liquidation proceeds and guarantees), time period required for recovery, and administrative costs.
+200. Banks under the foundation approach which utilise supervisory estimates are encouraged to retain the relevant data (ie data on loss and recovery experience for corporate exposures under the foundation approach, data on realised losses for banks using the supervisory slotting criteria).
+
+###### 小売エクスポージャーの基準
+195. 銀行は、少なくとも年1回、識別された各リスクプールの損失特性および延滞状況をレビューする必要があります。また、エクスポージャーが引き続き正しいプールに割り当てられることを保証する手段として、各プール内の個々の借り手のステータスを確認する必要があります。この要件は、プール内の代表的な暴露サンプルをレビューすることによって満たされ得る。
+#####（iii）オーバーライド
+196. 専門家の判断に基づいて格付けを割り当てる場合、銀行は格付けプロセスのアウトプットを上回る可能性のある状況を明確に明示しなければならない。モデルベースの格付については、銀行は、人の判断がモデルの格付けを上書きし、変数が除外されたり、入力が変更された場合を監視するためのガイドラインとプロセスを持たなければならない。このガイドラインには、これらの上書きを承認する担当者の特定が含まれていなければなりません。銀行はオーバーライドを特定し、そのパフォーマンスを個別に追跡する必要があります。
+#####（iv）データ保守
+197. 銀行は、内部借入リスクの測定および管理プロセスを効果的に支援し、銀行が本書の他の要件を満たし、監督の基礎となることを可能にするために、重要な借入人および施設の特性に関するデータを収集して保管しなければならない報告。これらのデータは、内部格付け制度の高度化がポートフォリオのより細かな分離を達成できることを示唆している場合など、債務者および施設の格付への回顧的な再配分を可能にするよう十分に詳細化されなければならない。さらに、銀行は、この枠組みの第3柱の下で要求されるように、内部格付けの側面に関するデータを収集し、保持しなければならない。
+###### 企業および銀行のエクスポージャー
+198. 銀行は、借り手/保証人に内部格付け、格付けが割り当てられた日付、格付けを引き出すために使用された方法論および重要なデータ、および責任ある人/モデルが割り当てられてから格付けを含む借り手および認識された保証人の格付け履歴を維持しなければならない。債務不履行の借り手および施設の識別、ならびにそのような債務不履行のタイミングおよび状況は保持されなければならない。銀行はまた、借り手格付けシステムの予測力を追跡するために、格付グレードおよび格付け移行に関連するデフォルト・レートをPD上に保持しなければならない。
+199. 高度なIRBアプローチを使用する銀行は、各施設に関連するLGDおよびEADの見積もりに関する完全なデータの履歴と、見積りを導出するために使用される重要なデータおよび責任者/モデルを収集して保管する必要があります。銀行はまた、各不履行施設に関連する推定され実現されたLGDおよびEADに関するデータを収集しなければならない。保証/クレジット・デリバティブの信用リスク軽減効果をLGDを通じて反映している銀行は、保証/クレジット・デリバティブの影響を評価する前と後に、施設のLGDにデータを保持しなければならない。回収された金額、回収源（担保、清算金、保証など）、回収に要した期間、行政コストなど、各債務不履行の損失または回収の構成要素に関する情報を保持する必要があります。
+200. 監督上の見積りを利用する基礎アプローチの下にある銀行は、関連するデータ（すなわち、基盤アプローチの下での企業エクスポージャーの損失および回収経験に関するデータ、監督下のスロッティング基準を用いた銀行の実現損失に関するデータ）を保持することが奨励される。
+
+For retail exposures
+201. Banks must retain data used in the process of allocating exposures to pools, including data on borrower and transaction risk characteristics used either directly or through use of a model, as well as data on delinquency. Banks must also retain data on the estimated PDs, LGDs and EADs, associated with pools
+90 Basel III: Finalising post-crisis reforms
+of exposures. For defaulted exposures, banks must retain the data on the pools to which the exposure was assigned over the year prior to default and the realised outcomes on LGD and EAD.
+(v) Stress tests used in assessment of capital adequacy
+202. An IRB bank must have in place sound stress testing processes for use in the assessment of capital adequacy. Stress testing must involve identifying possible events or future changes in economic conditions that could have unfavourable effects on a bank’s credit exposures and assessment of the bank’s ability to withstand such changes. Examples of scenarios that could be used are (i) economic or industry downturns; (ii) market-risk events; and (iii) liquidity conditions.
+203. In addition to the more general tests described above, the bank must perform a credit risk stress test to assess the effect of certain specific conditions on its IRB regulatory capital requirements. The test to be employed would be one chosen by the bank, subject to supervisory review. The test to be employed must be meaningful and reasonably conservative. Individual banks may develop different approaches to undertaking this stress test requirement, depending on their circumstances. For this purpose, the objective is not to require banks to consider worst-case scenarios. The bank’s stress test in this context should, however, consider at least the effect of mild recession scenarios. In this case, one example might be to use two consecutive quarters of zero growth to assess the effect on the bank’s PDs, LGDs and EADs, taking account – on a conservative basis – of the bank’s international diversification.
+204. Whatever method is used, the bank must include a consideration of the following sources of information. First, a bank’s own data should allow estimation of the ratings migration of at least some of its exposures. Second, banks should consider information about the impact of smaller deterioration in the credit environment on a bank’s ratings, giving some information on the likely effect of bigger, stress circumstances. Third, banks should evaluate evidence of ratings migration in external ratings. This would include the bank broadly matching its buckets to rating categories.
+205. National supervisors may wish to issue guidance to their banks on how the tests to be used for this purpose should be designed, bearing in mind conditions in their jurisdiction. The results of the stress test may indicate no difference in the capital calculated under the IRB rules described in this section of this Framework if the bank already uses such an approach for its internal rating purposes. Where a bank operates in several markets, it does not need to test for such conditions in all of those markets, but a bank should stress portfolios containing the vast majority of its total exposures.
+5. Corporate governance and oversight
+(i) Corporate governance
+206. All material aspects of the rating and estimation processes must be approved by the bank’s board of directors or a designated committee thereof and senior management.24 These parties must possess a general understanding of the bank’s risk rating system and detailed comprehension of its associated management reports. Senior management must provide notice to the board of directors or a designated committee thereof of material changes or exceptions from established policies that will materially impact the operations of the bank’s rating system.
+
+
+###### 小売業のエクスポージャー
+201. 銀行は、借り手に関するデータと、直接またはモデルの使用を通じて使用される取引リスク特性ならびに延滞データを含む、エクスポージャーをプールに配分する過程で使用されるデータを保持しなければならない。銀行はまた、プールに関連する推定PD、LGDおよびEADに関するデータを保持しなければならない
+90バーゼルIII：危機後の改革を終結させる
+曝露のデフォルトのエクスポージャーについては、銀行は、デフォルト前の1年間にエクスポージャーが割り当てられたプールおよびLGDおよびEADの実現結果にデータを保持しなければならない。
+#####（ⅴ）自己資本比率の評価に用いられるストレステスト
+202. IRB銀行は、自己資本比率の評価に使用するための健全なストレステストプロセスを実施していなければならない。ストレステストには、銀行の信用エクスポージャーに悪影響を及ぼす可能性のある事象や将来の経済状況の変化や、そのような変化に耐える銀行の能力の評価を特定する必要があります。使用可能なシナリオの例としては、（i）経済的または産業的不況、 （ii）市場リスク事象; （iii）流動性条件。
+203. 上記のより一般的なテストに加えて、IRBの規制資本要件に対する特定の条件の影響を評価するために、信用リスクストレステストを実施しなければならない。採用される試験は、銀行が選択したもので、監督上の見直しの対象となる。採用されるテストは有意義かつ合理的に保守的でなければならない。個々の銀行は、状況に応じて、このストレステスト要件を実施するための異なるアプローチを開発する可能性があります。この目的のために、目的は、銀行に最悪のシナリオを考慮させることではない。しかし、この文脈における銀行のストレステストは、少なくとも軽度の景気後退シナリオの影響を考慮する必要がある。このケースでは、2つの連続的なゼロ成長を使用して、銀行の国際分散化の控えめな基準を考慮して、銀行のPD、LGDおよびEADへの影響を評価することがあります。
+204. どのような方法を用いても、銀行は以下の情報源を考慮する必要がある。第一に、銀行自身のデータは、少なくともエクスポージャーのいくつかのレーティング・マイグレーションの見積りを可能にすべきである。第2に、銀行は、信用環境の悪化による銀行の格付けへの影響についての情報を考慮し、より大きなストレス状況の可能性のある影響についての情報を提供すべきである。第3に、銀行は外部格付けにおける格付け移行の証拠を評価すべきである。これには、バケットを格付けカテゴリーに広くマッチさせることが含まれます。
+205. 各国の監督当局は、管轄区域の状況を念頭に置いて、この目的のために使用される試験がどのように設計されるべきかについて、銀行に指針を出すことを望むかもしれない。ストレステストの結果は、銀行がすでに内部格付けの目的でこのアプローチを使用している場合、この枠組みのこのセクションで説明されているIRB規則の下で計算された資本に差異がないことを示している可能性があります。銀行がいくつかの市場で事業を行っている場合、それらの市場のすべてでこうした条件をテストする必要はありませんが、銀行は総エクスポージャーの大半を含むポートフォリオを強調すべきです。
+#### 5.コーポレート・ガバナンスと監督
+#####（ⅰ）コーポレートガバナンス
+206. 格付けおよび見積りプロセスの重要な側面は、銀行の取締役会またはその指定委員会および上級管理職によって承認されなければならない.24これらの当事者は、銀行のリスク評価システムおよびその関連する経営陣の詳細な理解レポート。上級管理職は、取締役会またはその指定委員会に対し、当行の格付制度の運営に重大な影響を及ぼす確立された方針の重大な変更または例外を通知しなければならない。
+
+207. Senior management also must have a good understanding of the rating system’s design and operation, and must approve material differences between established procedure and actual practice. Management must also ensure, on an ongoing basis, that the rating system is operating properly. Management and staff in the credit control function must meet regularly to discuss the performance of the rating process, areas needing improvement, and the status of efforts to improve previously identified deficiencies.
+208. Internal ratings must be an essential part of the reporting to these parties. Reporting must include risk profile by grade, migration across grades, estimation of the relevant parameters per grade, and comparison of realised default rates (and LGDs and EADs for banks on advanced approaches) against expectations. Reporting frequencies may vary with the significance and type of information and the level of the recipient.
+#####(ii) Credit risk control
+209. Banks must have independent credit risk control units that are responsible for the design or selection, implementation and performance of their internal rating systems. The unit(s) must be functionally independent from the personnel and management functions responsible for originating exposures. Areas of responsibility must include:
+• Testing and monitoring internal grades;
+• Production and analysis of summary reports from the bank’s rating system, to include historical default data sorted by rating at the time of default and one year prior to default, grade migration analyses, and monitoring of trends in key rating criteria;
+• Implementing procedures to verify that rating definitions are consistently applied across departments and geographic areas;
+• Reviewing and documenting any changes to the rating process, including the reasons for the changes; and
+• Reviewing the rating criteria to evaluate if they remain predictive of risk. Changes to the rating process, criteria or individual rating parameters must be documented and retained for supervisors to review.
+210. A credit risk control unit must actively participate in the development, selection, implementation and validation of rating models. It must assume oversight and supervision responsibilities for any models used in the rating process, and ultimate responsibility for the ongoing review and alterations to rating models.
+#####(iii) Internal and external audit
+211. Internal audit or an equally independent function must review at least annually the bank’s rating system and its operations, including the operations of the credit function and the estimation of PDs, LGDs and EADs. Areas of review include adherence to all applicable minimum requirements. Internal audit must document its findings.
+6. Use of internal ratings
+212. Internal ratings and default and loss estimates must play an essential role in the credit approval, risk management, internal capital allocations, and corporate governance functions of banks using the IRB approach. Ratings systems and estimates designed and implemented exclusively for the purpose of qualifying for the IRB approach and used only to provide IRB inputs are not acceptable. It is recognised that banks will not necessarily be using exactly the same estimates for both IRB and all internal purposes.
+92 Basel III: Finalising post-crisis reforms
+For example, pricing models are likely to use PDs and LGDs relevant to the life of the asset. Where there are such differences, a bank must document them and demonstrate their reasonableness to the supervisor.
+213. A bank must have a credible track record in the use of internal ratings information. Thus, the bank must demonstrate that it has been using a rating system that was broadly in line with the minimum requirements articulated in this document for at least the three years prior to qualification. A bank using the advanced IRB approach must demonstrate that it has been estimating and employing LGDs and EADs in a manner that is broadly consistent with the minimum requirements for use of own estimates of LGDs and EADs for at least the three years prior to qualification. Improvements to a bank’s rating system will not render a bank non-compliant with the three-year requirement.
+
+
+207. 上級管理職は、格付けシステムの設計と運用を十分に理解していなければならず、確立された手順と実際の実践との間の重要な差異を承認しなければならない。また、経営陣は、格付制度が適切に運用されていることを継続的に確認する必要があります。格付けプロセスの実績、改善が必要な分野、および以前に特定された欠陥を改善するための取り組みの状況について、定期的に会合しなければならない。
+208. 内部格付は、これらの当事者への報告に不可欠な部分でなければならない。報告には、グレードごとのリスクプロファイル、グレード間の移行、グレードごとの関連パラメータの見積もり、および期待されているものに対する実現デフォルト率（および先進アプローチによる銀行のLGDとEAD）の比較が含まれていなければなりません。報告頻度は、情報の重要性と種類、および受取人のレベルによって異なる場合があります。
+#####（ⅱ）信用リスク管理
+209. 銀行は、内部格付システムの設計または選択、実施および業績を担う独立した信用リスク管理部門を有していなければならない。ユニットは、発病の原因となる人員および管理機能から機能的に独立していなければならない。責任分野には以下が含まれなければならない：
+- 内部成績のテストと監視。
+- 債務不履行時の格付け、債務不履行の1年前の格付け、格付け移行分析、主要な格付け基準の動向を監視する履歴デフォルトデータを含む、銀行の格付けシステムからの要約レポートの作成と分析。
+- 評価定義が部門および地域間で一貫して適用されていることを検証する手順を実施する。
+- 変更の理由を含む格付けプロセスの変更をレビューし、文書化する。そして
+- リスクを予知し続けるかどうかを評価する評価基準をレビューする。評価プロセス、基準または個々の評価パラメータの変更は、監督者が検討するために文書化し、保持する必要があります。
+210. 信用リスク管理部門は、格付けモデルの開発、選択、実施、検証に積極的に参加しなければならない。評価プロセスで使用されるすべてのモデル、および評価モデルに対する継続的なレビューおよび変更の最終的な責任については、監督および監督の責任を負う必要があります。
+#####（ⅲ）内部監査と外部監査
+211. 内部監査又は同等の独立した機能は、信用機能の運用及びPD、LGD及びEADの見積りを含む、銀行の格付けシステム及びその運用を少なくとも年一回レビューしなければならない。審査の分野には、適用可能なすべての最小要件への遵守が含まれます。内部監査は、その結果を文書化しなければならない。
+#### 6.内部格付けの利用
+212. 内部格付およびデフォルトおよび損失見積りは、IRBアプローチを用いた銀行の与信承認、リスク管理、内部資本配分、コーポレート・ガバナンス機能に不可欠な役割を果たす必要があります。 IRBアプローチの適格性の目的でのみ設計され、実施された評価システムおよび見積りは、IRB入力の提供にのみ使用されるものではありません。銀行は必ずしもIRBと内部目的の両方で正確に同じ見積りを使用するとは限らないことが認識されている。
+92バーゼルⅢ：危機後の改革を終結させる
+例えば、価格モデルは、資産の存続期間に関連するPDおよびLGDを使用する可能性が高い。そのような違いがある場合、銀行はそれらを文書化し、監督者に合理性を証明しなければならない。
+213. 銀行は、内部格付け情報の使用において信頼できる実績を有していなければならない。したがって、銀行は、資格認定前の少なくとも3年間、この文書で明記された最低要件にほぼ沿った格付けシステムを使用していることを証明しなければならない。先進的なIRBアプローチを採用している銀行は、LGDとEADの見積もりと採用を、資格認定前の少なくとも3年間、LGDとEADの自己評価の最小要件とほぼ一致する方法で実施していることを証明しなければならない。銀行の格付け制度の改善によって、3年の要件に準拠しない銀行になることはありません。
+
+7. Risk quantification
+(i) Overall requirements for estimation
+Structure and intent
+214. This section addresses the broad standards for own-estimates of PD, LGD, and EAD. Generally, all banks using the IRB approaches must estimate a PD25 for each internal borrower grade for corporate and bank exposures or for each pool in the case of retail exposures.
+215. PD estimates must be a long-run average of one-year default rates for borrowers in the grade, with the exception of retail exposures as set out in paragraph 233 and 234. Requirements specific to PD estimation are provided in paragraphs 229 to 234. Banks on the advanced approach must estimate an appropriate LGD (as defined in paragraphs 235 to 240) for each of its facilities (or retail pools). For exposures subject to the advanced approach, banks must also estimate an appropriate long-run default-weighted average EAD for each of its facilities as defined in paragraphs 241 and 242. Requirements specific to EAD estimation appear in paragraphs 241 to 251. For corporate and bank exposures, banks that do not meet the requirements for own-estimates of EAD or LGD, above, must use the supervisory estimates of these parameters. Standards for use of such estimates are set out in paragraphs 280 to 297.
+216. Internal estimates of PD, LGD, and EAD must incorporate all relevant, material and available data, information and methods. A bank may utilise internal data and data from external sources (including pooled data). Where internal or external data is used, the bank must demonstrate that its estimates are representative of long run experience.
+217. Estimates must be grounded in historical experience and empirical evidence, and not based purely on subjective or judgmental considerations. Any changes in lending practice or the process for pursuing recoveries over the observation period must be taken into account. A bank’s estimates must promptly reflect the implications of technical advances and new data and other information, as it becomes available. Banks must review their estimates on a yearly basis or more frequently.
+218. The population of exposures represented in the data used for estimation, and lending standards in use when the data were generated, and other relevant characteristics should be closely matched to or at least comparable with those of the bank’s exposures and standards. The bank must also demonstrate that economic or market conditions that underlie the data are relevant to current and foreseeable conditions. For estimates of LGD and EAD, banks must take into account paragraphs 235 to 251. The number of exposures in the sample and the data period used for quantification must be sufficient to provide the bank with confidence in the accuracy and robustness of its estimates. The estimation technique must perform well in out-of-sample tests.
+
+#### 7.リスクの定量化
+#####（i）見積もりの​​全体要件
+######構造と意図
+このセクションでは、PD、LGD、およびEADの自己評価の広範な基準について述べる。一般に、IRBアプローチを使用するすべての銀行は、法人エクスポージャーまたは銀行エクスポージャー、または小売エクスポージャーの場合は各プールの内部借入人グレードごとにPD25を見積もっていなければなりません。
+215. PD推定値は、233項および234項に記載されている小売エクスポージャーを除いて、そのグレードにおける借り手の1年間のデフォルト率の長期平均でなければならない。PD推定に特有の要件は、パラグラフ229〜234先進的なアプローチの銀行は、施設（または小売プール）ごとに適切なLGD（パラグラフ235〜240で定義されている）を推定しなければならない。先進的アプローチの対象となるエクスポージャーについては、銀行は、第241項および第242項で定義されている各施設について、適切な長期的デフォルト加重平均EADを見積もらなければならない。EAD推定に固有の要件は、パラグラフ241から251に記載されている。上記のEADまたはLGDの自己評価の要件を満たさない銀行は、これらのパラメータの監督上の見積りを使用しなければならない。そのような見積もりの​​使用基準はパラグラフ280から297に記載されている。
+216. PD、LGD、およびEADの内部推定には、すべての関連性のある重要かつ利用可能なデータ、情報および方法が組み込まれていなければならない。銀行は、内部データおよび外部ソースからのデータ（プールされたデータを含む）を利用することができる。内部データまたは外部データが使用される場合、銀行はその見積りが長期的な経験を代表するものであることを証明しなければならない。
+217. 推定値は、歴史的経験と経験的証拠に基づいていなければならず、主観的または判断的考察のみに基づくものではない。融資実務の変更または観察期間にわたる回収を求めるプロセスを考慮する必要があります。銀行の見積もりは、技術的進歩と新しいデータおよびその他の情報が利用可能になると、それが即座に反映されなければならない。銀行は毎年、またはより頻繁に見積りを見直さなければならない。
+218. データの生成に使用される見積もりおよび貸出基準に使用されるエクスポージャーの人口およびその他の関連特性は、銀行のエクスポージャーおよびスタンダードのものと緊密に一致するか、少なくとも同等でなければならない。銀行はまた、データの基礎となる経済的または市場的条件が、現在および予見可能な条件に関連していることを証明しなければならない。 LGDとEADの見積もりについては、銀行は第235項から第251項を考慮しなければならない。標本におけるエクスポージャーの数と定量化に使用されるデータ期間は、見積もりの​​精度と堅牢性に自信を持たせるには十分でなければならない。推定手法は、サンプル外のテストでは十分に機能しなければなりません。
+
+
+219. In general, estimates of PDs, LGDs, and EADs are likely to involve unpredictable errors. In order to avoid over-optimism, a bank must add to its estimates a margin of conservatism that is related to the likely range of errors. Where methods and data are less satisfactory and the likely range of errors is larger, the margin of conservatism must be larger. Supervisors may allow some flexibility in application of the required standards for data that are collected prior to the date of implementation of this Framework. However, in such cases banks must demonstrate to their supervisors that appropriate adjustments have been made to achieve broad equivalence to the data without such flexibility. Data collected beyond the date of implementation must conform to the minimum standards unless otherwise stated.
+(ii) Definition of default
+220. A default is considered to have occurred with regard to a particular obligor when either or both of the two following events have taken place.
+• The bank considers that the obligor is unlikely to pay its credit obligations to the banking group in full, without recourse by the bank to actions such as realising security (if held).
+• The obligor is past due more than 90 days on any material credit obligation to the banking group.26 Overdrafts will be considered as being past due once the customer has breached an advised limit or been advised of a limit smaller than current outstandings.
+221. The elements to be taken as indications of unlikeliness to pay include:
+• The bank puts the credit obligation on non-accrued status.
+• The bank makes a charge-off or account-specific provision resulting from a significant perceived decline in credit quality subsequent to the bank taking on the exposure.
+• The bank sells the credit obligation at a material credit-related economic loss.
+• The bank consents to a distressed restructuring of the credit obligation where this is likely to result in a diminished financial obligation caused by the material forgiveness, or postponement, of principal, interest or (where relevant) fees.
+• The bank has filed for the obligor’s bankruptcy or a similar order in respect of the obligor’s credit obligation to the banking group.
+• The obligor has sought or has been placed in bankruptcy or similar protection where this would avoid or delay repayment of the credit obligation to the banking group.
+222. National supervisors will provide appropriate guidance as to how these elements must be implemented and monitored.
+223. For retail exposures, the definition of default can be applied at the level of a particular facility, rather than at the level of the obligor. As such, default by a borrower on one obligation does not require a bank to treat all other obligations to the banking group as defaulted.
+224. A bank must record actual defaults on IRB exposure classes using this reference definition. A bank must also use the reference definition for its estimation of PDs, and (where relevant) LGDs and EADs. In arriving at these estimations, a bank may use external data available to it that is not itself consistent with that definition, subject to the requirements set out in paragraph 230. However, in such cases, banks must demonstrate to their supervisors that appropriate adjustments to the data have been made to achieve broad equivalence with the reference definition. This same condition would apply to any internal data used up to implementation of this Framework. Internal data (including that pooled by banks) used in such estimates beyond the date of implementation of this Framework must be consistent with the reference definition.
+225. If the bank considers that a previously defaulted exposure’s status is such that no trigger of the reference definition any longer applies, the bank must rate the borrower and estimate LGD as they would for a non-defaulted facility. Should the reference definition subsequently be triggered, a second default would be deemed to have occurred.
+
+
+219. 一般に、PD、LGD、およびEADの推定には、予測不可能な誤差が含まれる可能性が高い。過度の楽観主義を避けるために、銀行は見積もりに誤差の可能性の高い範囲に関連する保守主義のマージンを加えなければならない。方法とデータがあまり満足できず、エラーの可能性のある範囲が大きい場合、保守主義のマージンはより大きくなければならない。監督当局は、このフレームワークの実施日より前に収集されたデータに必要な基準を適用する際にある程度の柔軟性を可能にすることがある。しかし、そのような場合、銀行は、そのような柔軟性がなくても、データに幅広く等価性を持たせるために適切な調整が行われたことを監督当局に示す必要があります。実施日以降に収集されたデータは、特に明記されていない限り、最低基準に準拠している必要があります。
+#####（ii）デフォルトの定義
+220. 以下の2つの事象のいずれかまたは両方が発生した場合、特定の債務者に関して債務不履行が生じたとみなされる。
+- 銀行は、銀行が担保の実現（保有している場合）の実現などの措置を取らずに、債務者が銀行グループに与信債務を全額支払う可能性は低いと考えている。
+- 債務者は、銀行グループに対する重大な信用義務について90日以上延滞している26.当座貸越は、顧客が勧告された限度を破るか、現在の残高よりも小さい限度額を通知された時点で延滞とみなされる。
+221. 支払う可能性が低いことの兆候とみなされる要素には、
+- 銀行は、信用義務を未払残戻状態に置く。
+- 当行は、エクスポージャーを取った後、信用の質が著しく低下したことに起因して、貸倒引当金または口座別の引当金を計上する。
+- 当行は、重要な信用関連の経済損失により信用義務を売却する。
+- 銀行は、信用義務の不安定な再編に同意する。この場合、元本、利息、（関連する場合には）手数料の重大な赦免または延期に起因する財務上の義務が低下する可能性が高い。
+- 銀行は、債務者の信用義務に関して、債務者の破産または同様の命令を銀行グループに提出した。
+- 債務者は、銀行グループに対する与信債務の返済を回避または遅延させるような破産または類似の保護を求めているか、または拘束されている。
+222. 国家監督当局は、これらの要素をどのように実施し、監視しなければならないかについて適切な指針を提供する。
+223. 小売エクスポージャーについては、債務不履行の定義は、債務者のレベルではなく、特定の施設のレベルで適用することができる。そのため、借り手による債務不履行は、債務不履行となった銀行グループに対するその他すべての義務を処理するために銀行を必要としません。
+224. 銀行は、この参照定義を使用して、IRBエクスポージャークラスに実際のデフォルトを記録しなければならない。また、銀行は、PD、および（該当する場合）LGDおよびEADの見積もりに参照定義を使用する必要があります。これらの見積もりに達するにあたり、銀行は利用可能な外部データを使用することができるが、これは第230項に規定された要件を前提として、その定義と一貫していない。しかし、そのような場合、銀行は監督当局に対して、データは参照定義と幅広く等価になるように作成されています。この同じ条件は、このフレームワークの実装までに使用された内部データに適用されます。かかるフレームワークの実施日以降のかかる見積りで使用される内部データ（銀行によってプールされたデータを含む）は、参照定義と一致していなければならない。
+225. 銀行が、以前にデフォルトされたエクスポージャーのステータスが基準定義のトリガーがもはや適用されない状況であると考える場合、銀行は借り手を格付けし、LGDをデフォルト以外のファシリティの場合と同様に見積もる必要があります。その後、参照定義がトリガーされると、第2のデフォルトが発生したとみなされる。
+
+
+(iii) Re-ageing
+226. The bank must have clearly articulated and documented policies in respect of the counting of days past due, in particular in respect of the re-ageing of the facilities and the granting of extensions, deferrals, renewals and rewrites to existing accounts. At a minimum, the re-ageing policy must include: (a) approval authorities and reporting requirements; (b) minimum age of a facility before it is eligible for re-ageing; (c) delinquency levels of facilities that are eligible for re-ageing; (d) maximum number of re-ageings per facility; and (e) a reassessment of the borrower’s capacity to repay. These policies must be applied consistently over time, and must support the ‘use test’ (ie if a bank treats a re-aged exposure in a similar fashion to other delinquent exposures more than the past-due cut off point, this exposure must be recorded as in default for IRB purposes).
+(iv) Treatment of overdrafts
+227. Authorised overdrafts must be subject to a credit limit set by the bank and brought to the knowledge of the client. Any break of this limit must be monitored; if the account were not brought under the limit after 90 to 180 days (subject to the applicable past-due trigger), it would be considered as defaulted. Non-authorised overdrafts will be associated with a zero limit for IRB purposes. Thus, days past due commence once any credit is granted to an unauthorised customer; if such credit were not repaid within 90 to 180 days, the exposure would be considered in default. Banks must have in place rigorous internal policies for assessing the creditworthiness of customers who are offered overdraft accounts.
+(v) Definition of loss for all asset classes
+228. The definition of loss used in estimating LGD is economic loss. When measuring economic loss, all relevant factors should be taken into account. This must include material discount effects and material direct and indirect costs associated with collecting on the exposure. Banks must not simply measure the loss recorded in accounting records, although they must be able to compare accounting and economic losses. The bank’s own workout and collection expertise significantly influences their recovery rates and must be reflected in their LGD estimates, but adjustments to estimates for such expertise must be conservative until the bank has sufficient internal empirical evidence of the impact of its expertise.
+
+#####（iii）Re-ageing
+226. 銀行は、特に施設の再熟成、既存の口座への延長、繰り延べ、更新および書き換えの付与に関して、延滞日数の計算に関して明確かつ明確に文書化された方針を持っていなければならない。最低限、再高齢化政策には以下が含まれなければならない：（a）承認当局および報告要件。 （b）再老化の対象となる前の施設の最低年齢; （c）再老化に適格である施設の延滞水準、 （d）1施設あたりの再加齢の最大回数。 （e）借り手の返済能力の再評価。これらの方針は、時間の経過とともに一貫して適用されなければならず、「使用テスト」をサポートしなければならない（すなわち、銀行が期限切れの他のエクスポージャーと同様の方法でリ・エージング・エクスポージャーを過去のカットオフ・ポイントよりも多く扱う場合、 IRB目的のためにデフォルトで記録されている）。
+#####（iv）当座貸越契約の処理
+227. 承認された当座貸越は、銀行によって設定された信用限度に服し、顧客の知識に持ち込まなければならない。この限界のいかなる破損も監視されなければならない。口座が90日から180日後に限度を超えない場合（適用される過去期限引き金を条件として）、債務不履行とみなされます。許可されていない当座貸越は、IRB目的のためにゼロ制限に関連付けられます。したがって、承認されていない顧客にクレジットが付与されると、期限を過ぎてからの日数は、かかるクレジットが90日から180日以内に返済されなかった場合、エクスポージャーはデフォルトで考慮される。銀行は、当座貸越勘定が提供される顧客の信用力を評価するための厳格な社内ポリシーを備えていなければならない。
+#####（ⅴ）すべての資産クラスの損失の定義
+228. LGDの見積りに使用される損失の定義は、経済的損失です。経済的損失を測定する場合は、関連するすべての要素を考慮する必要があります。これには、マテリアルディスカウント効果およびエクスポージャーの回収に関連する重要な直接および間接費用が含まれていなければなりません。銀行は会計記録に記録された損失を単純に測定してはならないが、会計上および経済上の損失を比較できる必要がある。銀行自身のワークアウトおよび回収の専門知識は、回収率に大きく影響し、LGDの見積りに反映されなければならないが、専門知識の影響に関する十分な内部経験的証拠が銀行に残るまで、
+
+(vi) Requirements specific to PD estimation
+Corporate and bank exposures
+229. Banks must use information and techniques that take appropriate account of the long-run experience when estimating the average PD for each rating grade. For example, banks may use one or more of the three specific techniques set out below: internal default experience, mapping to external data, and statistical default models.
+230. Banks may have a primary technique and use others as a point of comparison and potential adjustment. Supervisors will not be satisfied by mechanical application of a technique without supporting analysis. Banks must recognise the importance of judgmental considerations in combining results of techniques and in making adjustments for limitations of techniques and information A bank may use data on internal default experience for the estimation of PD. 
+• A bank must demonstrate in its analysis that the estimates are reflective of underwriting standards and of any differences in the rating system that generated the data and the current rating system. Where only limited data are available, or where underwriting standards or rating systems have changed, the bank must add a greater margin of conservatism in its estimate of PD. The use of pooled data across institutions may also be recognised. A bank must demonstrate that the internal rating systems and criteria of other banks in the pool are comparable with its own.
+• Banks may associate or map their internal grades to the scale used by an external credit assessment institution or similar institution and then attribute the default rate observed for the external institution’s grades to the bank’s grades. Mappings must be based on a comparison of internal rating criteria to the criteria used by the external institution and on a comparison of the internal and external ratings of any common borrowers. Biases or inconsistencies in the mapping approach or underlying data must be avoided. The external institution’s criteria underlying the data used for quantification must be oriented to the risk of the borrower and not reflect transaction characteristics. The bank’s analysis must include a comparison of the default definitions used, subject to the requirements in paragraph 220 to 225. The bank must document the basis for the mapping.
+• A bank is allowed to use a simple average of default-probability estimates for individual borrowers in a given grade, where such estimates are drawn from statistical default prediction models. The bank’s use of default probability models for this purpose must meet the standards specified in paragraph 185.
+For all methods above, banks must estimate a PD for each rating grade based on the observed historical average one-year default rate that is a simple average based on number of obligors (count weighted). Weighting approaches, such as EAD weighting, are not permitted.
+231. Irrespective of whether a bank is using external, internal, or pooled data sources, or a combination of the three, for its PD estimation, the length of the underlying historical observation period used must be at least five years for at least one source. If the available observation period spans a longer period for any source, and this data are relevant and material, this longer period must be used. The data should include a representative mix of good and bad years.
+
+
+#####（vi）PD推定に固有の要件
+######法人および銀行エクスポージャー
+229. 銀行は、各格付けグレードの平均PDを見積もる際に、長期的な経験を適切に考慮した情報と手法を使用しなければならない。例えば、銀行は、内部デフォルト経験、外部データへのマッピング、および統計的デフォルトモデルの3つの特定の技術の1つ以上を使用することができる。
+230. 銀行は一次的な手法を持ち、比較や潜在的な調整のポイントとして他の手法を使用することがある。監督者は、分析を支援せずに技術を機械的に適用することによって満足されることはない。銀行は、技術の結果を組み合わせ、技術や情報の限界を調整する際の判断上の配慮の重要性を認識しなければならない。銀行は、PDの見積もりに内部デフォルト経験に関するデータを使用することがある。
+- 銀行は、その分析において、引受基準と、データを生成した格付けシステムと現在の格付けシステムとの差異を反映していることを証明しなければならない。限られたデータしか入手できない場合、または引受基準または格付けシステムが変更された場合、銀行はPDの見積りに大きな保守主義を加える必要があります。施設間でプールされたデータの使用も認められるかもしれない。銀行は、プール内の他の銀行の内部格付けシステムおよび基準が、自らの格付けシステムに匹敵するものであることを証明しなければならない。
+- 銀行は、内部格付を外部信用評価機関または同様の機関が使用する尺度に関連付けまたはマッピングし、外部機関の格付について観察されたデフォルト率を銀行の格付けに帰属させることができる。マッピングは、内部格付け基準と外部機関が使用する基準との比較、および共通借入人の内部格付けおよび外部格付けの比較に基づいていなければならない。マッピングアプローチや基礎となるデータの偏りや矛盾を避ける必要があります。定量化に使用されるデータの基礎となる外部機関の基準は、借り手のリスクに向いていなければならず、取引特性を反映していなければなりません。銀行の分析には、第220項から第225項の要件に従い、使用されるデフォルト定義の比較が含まれていなければならない。銀行はマッピングの基礎を文書化しなければならない。
+- 銀行は、所与の等級内の個々の借り手に対して、統計的デフォルト予測モデルから得られた推定値を用いて、単純確率平均確率確率平均を用いることができる。この目的のための銀行のデフォルト確率モデルの使用は、パラグラフ185で指定された基準を満たさなければならない。
+上記のすべての方法について、銀行は、観察された過去の平均1年デフォルト率（債務者の数に基づく単純平均）に基づいて、各格付けグレードについてPDを見積もらなければなりません。 EAD重み付けなどの重み付け手法は許可されていません。
+231. 銀行が外部、内部、またはプールされたデータソースを使用しているか、または3つの組み合わせを使用しているかにかかわらず、PD見積もりに使用される基礎となる過去の観測期間の長さは、少なくとも1つのソース。利用可能な観測期間が任意の発生源に対してより長い期間にわたり、このデータが関連性があり、重要である場合、このより長い期間を使用しなければならない。データには、良い年と悪い年の代表的な組み合わせが含まれている必要があります。
+
+
+Retail exposures
+232. Given the bank-specific basis of assigning exposures to pools, banks must regard internal data as the primary source of information for estimating loss characteristics. Banks are permitted to use external data or statistical models for quantification provided a strong link can be demonstrated between: (a) the bank’s process of assigning exposures to a pool and the process used by the external data source; and (b) between the bank’s internal risk profile and the composition of the external data. In all cases banks must use all relevant and material data sources as points of comparison.
+233. One method for deriving long-run average estimates of PD and default-weighted average loss rates given default (as defined in paragraph 235) for retail would be based on an estimate of the expected long-run loss rate. A bank may (i) use an appropriate PD estimate to infer the long-run default-weighted average loss rate given default, or (ii) use a long-run default-weighted average loss rate given default to infer the appropriate PD. In either case, it is important to recognise that the LGD used for the IRB capital calculation cannot be less than the long-run default-weighted average loss rate given default and must be consistent with the concepts defined in paragraph 235.
+234. Irrespective of whether banks are using external, internal, pooled data sources, or a combination of the three, for their estimation of loss characteristics, the length of the underlying historical observation period used must be at least five years. If the available observation spans a longer period for any source, and these data are relevant, this longer period must be used. The data should include a representative mix
+96 Basel III: Finalising post-crisis reforms
+of good and bad years of the economic cycle relevant for the portfolio. The PD should be based on the observed historical average one-year default rate.
+(vii) Requirements specific to own-LGD estimates
+Standards for all asset classes
+235. A bank must estimate an LGD for each facility that aims to reflect economic downturn conditions where necessary to capture the relevant risks. This LGD cannot be less than the long-run default-weighted average loss rate given default calculated based on the average economic loss of all observed defaults within the data source for that type of facility. In addition, a bank must take into account the potential for the LGD of the facility to be higher than the default-weighted average during a period when credit losses are substantially higher than average. For certain types of exposures, loss severities may not exhibit such cyclical variability and LGD estimates may not differ materially from the long-run default-weighted average. However, for other exposures, this cyclical variability in loss severities may be important and banks will need to incorporate it into their LGD estimates. For this purpose, banks may make reference to the averages of loss severities observed during periods of high credit losses, forecasts based on appropriately conservative assumptions, or other similar methods. Appropriate estimates of LGD during periods of high credit losses might be formed using either internal and/or external data. Supervisors will continue to monitor and encourage the development of appropriate approaches to this issue.
+236. In its analysis, the bank must consider the extent of any dependence between the risk of the borrower and that of the collateral or collateral provider. Cases where there is a significant degree of dependence must be addressed in a conservative manner. Any currency mismatch between the underlying obligation and the collateral must also be considered and treated conservatively in the bank’s assessment of LGD.
+237. LGD estimates must be grounded in historical recovery rates and, when applicable, must not solely be based on the collateral’s estimated market value. This requirement recognises the potential inability of banks to gain both control of their collateral and liquidate it expeditiously. To the extent that LGD estimates take into account the existence of collateral, banks must establish internal requirements for collateral management, operational procedures, legal certainty and risk management process that are generally consistent with those required for the foundation IRB approach.
+238. Recognising the principle that realised losses can at times systematically exceed expected levels, the LGD assigned to a defaulted asset should reflect the possibility that the bank would have to recognise additional, unexpected losses during the recovery period. For each defaulted asset, the bank must also construct its best estimate of the expected loss on that asset based on current economic circumstances and facility status. The amount, if any, by which the LGD on a defaulted asset exceeds the bank’s best estimate of expected loss on the asset represents the capital requirement for that asset, and should be set by the bank on a risk-sensitive basis in accordance with paragraphs 53 and 118 to 120. Instances where the best estimate of expected loss on a defaulted asset is less than the sum of specific provisions and partial charge-offs on that asset will attract supervisory scrutiny and must be justified by the bank.
+
+
+
+###### リテールのエクスポージャー
+232. 銀行は、エクスポージャーをプールに割り当てるという銀行固有の基準が与えられた場合、損失特性を見積もるための情報源として、内部データを主な情報源と見なさなければならない。銀行は、（a）プールにエクスポージャーを割り当てる銀行のプロセスと外部データソースによって使用されるプロセスとの間で、強力なリンクが示されていることを条件として、定量化のために外部データまたは統計モデルを使用することが許可される。 （b）銀行の内部リスク・プロファイルと外部データの構成との間にある。いずれの場合も、銀行はすべての関連した重要なデータソースを比較のポイントとして使用する必要があります。
+233. 小売業の不履行（パラグラフ235で定義されている）を行ったPDおよびデフォルト加重平均損失率の長期平均見積りを導出するための1つの方法は、予想される長期失効率​​の見積りに基づいている。銀行は、（i）適切なPD見積りを使用して、デフォルトでの長期デフォルト加重平均損失率を推測するか、または（ii）適切なPDを推測するために長期デフォルト加重平均損失率をデフォルトとして使用することができます。どちらの場合でも、IRB資本計算に使用されるLGDは、デフォルトで与えられた長期デフォルト加重平均損失率を下回ることはできず、パラグラフ235で定義された概念と一致しなければならないことを認識することが重要です。
+234. 銀行が外部、内部、プールされたデータソースを使用しているのか、それとも3つを組み合わせて使用​​しているのかにかかわらず、損失特性の推定には、使用される基礎となる過去の観測期間の長さは少なくとも5年でなければならない。利用可能な観測が任意の発生源に対してより長い期間にわたり、これらのデータが関連する場合、このより長い期間を使用しなければならない。データには、代表的なミックス
+96バーゼルIII：危機後の改革を終結させる
+ポートフォリオに関連する景気循環の良い年と悪い年のPDは、観察された歴史的平均1年デフォルト率に基づいていなければならない。
+#####（vii）自己LGDの見積りに固有の要件
+######すべての資産クラスの基準
+235. 銀行は、関連するリスクを捉えるために必要な場合に景気低迷状態を反映することを目指す各施設のLGDを見積もらなければならない。このLGDは、そのタイプの施設のデータソース内のすべての観測されたデフォルトの経済的損失の平均に基づいて計算された、デフォルトで与えられた長期デフォルト加重平均損失率を下回ることはできません。さらに、信用損失が実質的に平均よりも高い期間に、ファシリティのLGDがデフォルト加重平均よりも高い可能性を考慮する必要があります。特定の種類のエクスポージャーについては、損失の重大性はそのような周期的な変動性を示さず、LGDの見積りは長期的なデフォルト加重平均と大きく異なることはない。しかし、他のエクスポージャーについては、この重大な損失の重大性の変動は重要であり、銀行はLGDの見積りにそれを組み込む必要がある。この目的のために、銀行は、高い信用損失の期間に観察された損失の重大性の平均、適切に保守的な仮定に基づく予測、または他の同様の方法を参照することができる。高い信用損失の期間中のLGDの適切な推定値は、内部および/または外部データを使用して形成される可能性がある。監督当局は引き続き、この問題に対する適切なアプローチの開発を監視し、奨励する。
+236. その分析において、銀行は、借り手のリスクと担保または担保プロバイダーのリスクとの間の依存の程度を考慮する必要があります。重要な程度の依存がある場合は、控えめなやり方で対処しなければならない。根底にある義務と担保との間の通貨の不一致も考慮しなければならず、銀行のLGD評価において控えめに扱われなければならない。
+237. LGDの見積りは、過去の回収率に基づいて行われなければならず、適用可能であれば、担保の見積市場価値のみに基づいて行われてはならない。この要件は、銀行が担保の管理と迅速な清算の両方を得ることができない可能性を認識している。 LGDの見積もりが担保の存在を考慮する限り、銀行は、基礎IRBアプローチに必要とされる担保管理、業務手順、法的確実性およびリスク管理プロセスのための内部要件を確立する必要があります。
+
+Additional standards for corporate exposures
+239. Estimates of LGD must be based on a minimum data observation period that should ideally cover at least one complete economic cycle but must in any case be no shorter than a period of seven years for at least one source. If the available observation period spans a longer period for any source, and the data are relevant, this longer period must be used.
+Additional standards for retail exposures
+240. The minimum data observation period for LGD estimates for retail exposures is five years. The less data a bank has, the more conservative it must be in its estimation.
+Basel III: Finalising post-crisis reforms 97
+(viii) Requirements specific to own-EAD estimates
+Standards for all asset classes
+241. EAD for an on-balance sheet or off-balance sheet item is defined as the expected gross exposure of the facility upon default of the obligor. For on-balance sheet items, banks must estimate EAD at no less than the current drawn amount, subject to recognising the effects of on-balance sheet netting as specified in the foundation approach. The minimum requirements for the recognition of netting are the same as those under the foundation approach. The additional minimum requirements for internal estimation of EAD under the advanced approach, therefore, focus on the estimation of EAD for off-balance sheet items (excluding transactions that expose banks to counterparty credit risk as set out in the counterparty credit risk standards). Banks using the advanced approach must have established procedures in place for the estimation of EAD for off-balance sheet items. These must specify the estimates of EAD to be used for each facility type. Banks’ estimates of EAD should reflect the possibility of additional drawings by the borrower up to and after the time a default event is triggered. Where estimates of EAD differ by facility type, the delineation of these facilities must be clear and unambiguous.
+242. Under the advanced approach, banks must assign an estimate of EAD for each eligible facility. It must be an estimate of the long-run default-weighted average EAD for similar facilities and borrowers over a sufficiently long period of time, but with a margin of conservatism appropriate to the likely range of errors in the estimate. If a positive correlation can reasonably be expected between the default frequency and the magnitude of EAD, the EAD estimate must incorporate a larger margin of conservatism. Moreover, for exposures for which EAD estimates are volatile over the economic cycle, the bank must use EAD estimates that are appropriate for an economic downturn, if these are more conservative than the long-run average. For banks that have been able to develop their own EAD models, this could be achieved by considering the cyclical nature, if any, of the drivers of such models. Other banks may have sufficient internal data to examine the impact of previous recession(s). However, some banks may only have the option of making conservative use of external data. Moreover, where a bank bases its estimates on alternative measures of central tendency (such as the median or a higher percentile estimate) or only on ‘downturn’ data, it should explicitly confirm that the basic downturn requirement of the framework is met, ie the bank’s estimates do not fall below a (conservative) estimate of the long-run default-weighted average EAD for similar facilities.
+243. The criteria by which estimates of EAD are derived must be plausible and intuitive, and represent what the bank believes to be the material drivers of EAD. The choices must be supported by credible internal analysis by the bank. The bank must be able to provide a breakdown of its EAD experience by the factors it sees as the drivers of EAD. A bank must use all relevant and material information in its derivation of EAD estimates. Across facility types, a bank must review its estimates of EAD when material new information comes to light and at least on an annual basis.
+244. Due consideration must be paid by the bank to its specific policies and strategies adopted in respect of account monitoring and payment processing. The bank must also consider its ability and willingness to prevent further drawings in circumstances short of payment default, such as covenant violations or other technical default events. Banks must also have adequate systems and procedures in place to monitor facility amounts, current outstandings against committed lines and changes in outstandings per borrower and per grade. The bank must be able to monitor outstanding balances on a daily basis.
+245. Banks’ EAD estimates must be developed using a 12-month fixed-horizon approach; ie for each observation in the reference data set, default outcomes must be linked to relevant obligor and facility characteristics twelve months prior to default.
+
+
+###### 企業のエクスポージャーに関する追加基準
+239. LGDの見積りは、少なくとも1つの完全な経済サイクルを理想的にカバーすべき最小データ観測期間に基づいていなければならないが、いずれにしても少なくとも1つの情報源については7年間以上でなければならない。利用可能な観測期間が任意の発生源に対してより長い期間にわたり、データが関連する場合、このより長い期間を使用しなければならない。
+###### 小売エクスポージャーに関する追加標準
+240. 小売エクスポージャーに関するLGDの見積りの最小データ観測期間は5年間です。銀行のデータが少ないほど、推計にはより慎重なものでなければなりません。
+バーゼルIII：危機後の改革の終結97
+##### （viii）自己EAD見積りに固有の要件
+######すべての資産クラスの基準
+241. オンバランスシートまたはオフバランスシート項目のEADは、債務者の債務不履行時の施設の予想総エクスポージャーとして定義される。オンバランスシート項目については、銀行は、基礎アプローチで指定されたオンバランスシートネットの効果を認識することを条件に、現在の引き出し額以上でEADを見積もらなければならない。ネッティングの認識のための最小限の要件は、基礎的アプローチの要件と同じである。したがって、先進的アプローチにおけるEADの内部評価のための追加的な最低要件は、オフバランスシート項目（カウンターパーティの信用リスク基準に示されているように銀行を取引先の信用リスクにさらす取引を除く）についてのEADの見積りに焦点を当てる。先進的アプローチを採用している銀行は、オフバランスシート項目のEADを推定するための手続きを確立していなければならない。これらは、各施設タイプに使用されるEADの見積もりを指定する必要があります。銀行のEADの見積もりには、借り手によるデフォルトのイベントが発生した時点以降の追加図面の可能性が反映されている必要があります。施設タイプによってEADの見積もりが異なる場合、これらの施設の描写は明確かつ明確でなければならない。
+242. 高度なアプローチの下では、銀行は適格施設ごとにEADの見積りを割り当てなければならない。類似の施設および借り手に対する長期デフォルト加重平均EADの推定値は十分に長期間であるが、見積もり誤差の可能性のある範囲に適切な保守主義のマージンを持たなければならない。デフォルトの頻度とEADの大きさの間に肯定的な相関が合理的に期待できる場合、EADの推定にはより大きなマージンを組み込む必要があります。さらに、EADの見積りが景気循環の中で変動するエクスポージャーについては、長期的な平均よりも慎重であれば、景気後退に適したEAD見積もりを使用しなければならない。独自のEADモデルを開発できた銀行にとって、これは、そのようなモデルの運転手の循環的な性質があれば、それを考慮することによって達成することができる。他の銀行は、前回の景気後退の影響を調べるのに十分な内部データを持っているかもしれない。しかし、銀行によっては、外部データを慎重に使用するオプションしかない場合もあります。さらに、銀行が中央傾向（中央値や高いパーセンタイルの見積りなど）の代替措置や「景気下降」データのみに基づいて見積もっている場合、基本的な景気低迷の要件が満たされていること、銀行の見積もりは、類似施設の長期デフォルト加重平均EADの（控えめな）見積りを下回らない。
+243. EADの推定値が導き出される基準は、妥当で直観的でなければならず、銀行がEADの重要な推進要因であると信じているものでなければならない。選択肢は、銀行による信頼できる内部分析によって支持されなければならない。 EADのドライバーと見なされる要因によって、EADエクスペリエンスの内訳を提供できる必要があります。銀行は、EAD見積りの派生において、すべての関連した重要な情報を使用しなければならない。施設タイプ間で、重要な新しい情報が明らかになった場合、少なくとも年に1度、EADの見積りを見直さなければならない。
+244. 当行は、口座の監視と支払い処理に関して採用された特定の方針と戦略に十分な配慮をしなければならない。また、契約違反やその他の技術的不履行事由などの支払い不履行に至らない状況では、引き続き図面を防止する能力と意欲を考慮しなければならない。銀行は、施設の金額、コミットされた行に対する現在の残高、借り手およびグレードごとの残高の変化を監視するための適切なシステムと手続きを備えていなければならない。銀行は毎日残高を監視することができなければなりません。
+245. 銀行のEAD見積りは、12ヶ月間の固定期間アプローチを用いて開発されなければならない。基準データセットの各観測について、債務不履行の結果の12ヶ月前に関連する債務者および施設の特性にデフォルトの結果を関連付ける必要があります。
+
+246. As set out in paragraph 218, banks’ EAD estimates should be based on reference data that reflect the obligor, facility and bank management practice characteristics of the exposures to which the estimates
+98 Basel III: Finalising post-crisis reforms
+are applied. Consistent with this principle, EAD estimates applied to particular exposures should not be based on data that comingle the effects of disparate characteristics or data from exposures that exhibit different characteristics (eg same broad product grouping but different customers that are managed differently by the bank). The estimates should be based on appropriately homogenous segments. Alternatively, the estimates should be based on an estimation approach that effectively disentangles the impact of the different characteristics exhibited within the relevant dataset. Practices that generally do not comply with this principle include use of estimates based or partly based on:
+• SME/midmarket data being applied to large corporate obligors.
+• Data from commitments with ‘small’ unused limit availability being applied to facilities with ‘large’ unused limit availability.
+• Data from obligors already identified as problematic at reference date being applied to current obligors with no known issues (eg customers at reference date who were already delinquent, watchlisted by the bank, subject to recent bank-initiated limit reductions, blocked from further drawdowns or subject to other types of collections activity).
+• Data that has been affected by changes in obligors’ mix of borrowing and other credit-related products over the observation period unless that data has been effectively mitigated for such changes, eg by adjusting the data to remove the effects of the changes in the product mix. Supervisors should expect banks to demonstrate a detailed understanding of the impact of changes in customer product mix on EAD reference data sets (and associated EAD estimates) and that the impact is immaterial or has been effectively mitigated within each bank’s estimation process. Banks’ analyses in this regard should be actively challenged by supervisors. Effective mitigation would not include: setting floors to CCF/EAD observations; use of obligor-level estimates that do not fully cover the relevant product transformation options or inappropriately combine products with very different characteristics (eg revolving and non-revolving products); adjusting only ‘material’ observations affected by product transformation; generally excluding observations affected by product profile transformation (thereby potentially distorting the representativeness of the remaining data).
+
+246. 第218項に記載されているように、銀行のEAD見積りは、債務者、施設および銀行経営慣行の特性を反映する参照データに基づいていなければならない
+98バーゼルⅢ：危機後の改革を終結させる
+適用される。この原則と一致して、特定のエクスポージャーに適用されるEAD見積もりは、異なる特性（例えば、幅広い製品グループであるが、銀行によって異なる管理をしている異なる顧客）とは異なるエクスポージャーからの異なる特性またはデータの影響に遭遇するデータに基づくべきではない。見積もりは、適切に均質なセグメントに基づいている必要があります。あるいは、推定は、関連するデータセット内に示される異なる特性の影響を効果的に解消する推定アプローチに基づくべきである。一般にこの原則に準拠していないプラクティスには、以下に基づいた、または部分的に基づく見積りの使用が含まれます。
+- 中小企業/中堅企業のデータが大企業の債務者に適用されている。
+- 未使用限度の可用性が「未使用」の施設に適用される「未使用」の可用性が低いコミットメントからのデータ。
+- 基準日現在問題のある債務者からのデータは、既知の問題のない現在の債務者に適用される（例えば、延滞していた顧客、銀行がウォッチリストに記載したもの、最近の銀行による限度額の引き下げ、他のタイプの収集アクティビティの影響を受けます）。
+- 債務者が観察期間中に借入金およびその他の信用関連商品を混在させることによる影響を受けたデータ。例えば、データの調整などにより、変更が効果的に軽減されていない場合ミックス。監督当局は、EAD参照データセット（およびそれに関連するEAD見積り）に対する顧客製品ミックスの変化の影響を詳細に理解し、各銀行の見積りプロセスにおいてその影響が重要でないか効果的に緩和されていることを期待するべきである。この点に関する銀行の分析は、監督当局によって積極的に挑戦されるべきである。効果的な緩和には、床をCCF / EAD観測に設定すること、関連する製品変換オプションを完全にカバーしていない、または非常に異なる特性を有する製品（例えば、回転および非回転製品）を不適切に組み合わせた債務者レベルの見積りの使用。製品変換の影響を受ける「物質的」観測のみを調整する。一般にプロダクトプロファイル変換の影響を受ける観察を排除する（それにより、残りのデータの表現力を潜在的に歪める）。
+
+
+247. A well-known feature of the commonly used undrawn limit factor (ULF) approach27 to estimating CCFs is the region of instability associated with facilities close to being fully drawn at reference date. Banks should ensure that their EAD estimates are effectively quarantined from the potential effects of this region of instability.
+• An acceptable approach could include using an estimation method other than the ULF approach that avoids the instability issue by not using potentially small undrawn limits that could approach zero in the denominator or, as appropriate, switching to a method other than the ULF as the region of instability is approached, eg a limit factor, balance factor or additional utilisation factor approach.28 Note that, consistent with paragraph 246, including limit utilisation as a driver in EAD models could quarantine much of the relevant portfolio from this issue but, in the absence of other actions, leaves open how to develop appropriate EAD estimates to be applied to exposures within the region of instability.
+• Common but ineffective approaches to mitigating this issue include capping and flooring reference data (eg observed CCFs at 100 per cent and zero respectively) or omitting observations that are judged to be affected.
+248. EAD reference data must not be capped to the principal amount outstanding or facility limits. Accrued interest, other due payments and limit excesses should be included in EAD reference data.
+249. For transactions that expose banks to counterparty credit risk, estimates of EAD must fulfil the requirements set forth in the counterparty credit risk standards.
+Additional standards for corporate exposures
+250. Estimates of EAD must be based on a time period that must ideally cover a complete economic cycle but must in any case be no shorter than a period of seven years. If the available observation period spans a longer period for any source, and the data are relevant, this longer period must be used. EAD estimates must be calculated using a default-weighted average and not a time-weighted average.
+Additional standards for retail exposures
+251. The minimum data observation period for EAD estimates for retail exposures is five years. The less data a bank has, the more conservative it must be in its estimation. A bank need not give equal importance to historic data if it can demonstrate to its supervisor that more recent data are a better predictor of drawdowns.
+(ix) Minimum requirements for assessing effect of guarantees and credit derivatives
+Standards for corporate exposures where own estimates of LGD are used and standards for retail exposures
+Guarantees
+252. When a bank uses its own estimates of LGD, it may reflect the risk-mitigating effect of guarantees through an adjustment to PD or LGD estimates. The option to adjust LGDs is available only to those banks that have been approved to use their own internal estimates of LGD. For retail exposures, where guarantees exist, either in support of an individual obligation or a pool of exposures, a bank may reflect the risk-reducing effect either through its estimates of PD or LGD, provided this is done consistently. In adopting one or the other technique, a bank must adopt a consistent approach, both across types of guarantees and over time.
+253. In all cases, both the borrower and all recognised guarantors must be assigned a borrower rating at the outset and on an ongoing basis. A bank must follow all minimum requirements for assigning borrower ratings set out in this document, including the regular monitoring of the guarantor’s condition and ability and willingness to honour its obligations. Consistent with the requirements in paragraphs 198 and 199, a bank must retain all relevant information on the borrower absent the guarantee and the guarantor. In the case of retail guarantees, these requirements also apply to the assignment of an exposure to a pool, and the estimation of PD.
+254. In no case can the bank assign the guaranteed exposure an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor. Neither criteria nor rating processes are permitted to consider possible favourable effects of imperfect expected correlation between default events for the borrower and guarantor for purposes of regulatory minimum capital requirements. As such, the adjusted risk weight must not reflect the risk mitigation of “double default.”
+
+
+247. CCFを推定するために一般的に使用されている未延伸限界係数（ULF）アプローチ27のよく知られた特徴は、基準日に完全に引き出されることに近い施設に関連する不安定性の領域である。銀行は、EADの見積もりが、この不安定領域の潜在的影響から効果的に隔離されることを確実にすべきである。
+- 許容可能なアプローチには、分母にゼロに近づく可能性のある未定義の限界を使用しないことによって不安定性の問題を回避するULFアプローチ以外の推定方法を使用するか、または必要に応じて地域としてULF以外の方法に切り替える限界係数、均衡係数または追加利用率アプローチなどの不安定性が近づいている28. EADモデルの運転者としての限界利用を含む246項と一致して、この問題から関連するポートフォリオの多くを隔離することができるが、不安定領域内の曝露に適用される適切なEAD推定値を開発する方法を公開している。
+- この問題を緩和するための一般的ではあるが非効率的なアプローチには、基準データ（例えば、観測されたCCFをそれぞれ100％と0とする）のキャッピングとフローリング、または影響を受けると判断される観測の省略が含まれる。
+248. EAD参照データは、元本残高または施設の限度に上限を設定してはならない。 EAD参照データには、未払利息、その他の支払期日および限度超過額を含める必要があります。
+249. 銀行を取引先の信用リスクにさらす取引については、EADの見積りは、取引先の信用リスク基準に定められた要件を満たさなければならない。
+企業のエクスポージャーに関する追加基準
+250. EADの見積りは、理想的には完全な経済サイクルをカバーしなければならない期間に基づいていなければならないが、いかなる場合にも7年の期間より短くなければならない。利用可能な観測期間が任意の発生源に対してより長い期間にわたり、データが関連する場合、このより長い期間を使用しなければならない。 EAD推定値は、時間加重平均ではなくデフォルト加重平均を使用して計算する必要があります。
+###### 小売エクスポージャーに関する追加標準
+251. 小売エクスポージャーに関するEAD推定の最小データ観測期間は5年間である。銀行のデータが少ないほど、推計にはより慎重なものでなければなりません。銀行は、監督当局に、より最近のデータが債務削減のよりよい予測因子であることを実証できる場合、過去のデータを同等に重要なものとする必要はない。
+#####（ix）保証及びクレジット・デリバティブの評価効果の最低要件
+######LGDの自己評価が使用される企業エクスポージャーの基準および小売エクスポージャーの基準
+保証
+252. 銀行がLGDのそれ自体の見積りを使用する場合、PDまたはLGDの見積りの調整による保証のリスク軽減効果を反映している可能性がある。 LGDを調整するオプションは、LGDの内部見積りを使用することが承認された銀行に対してのみ利用可能です。個々の義務またはエクスポージャーのプールのいずれかを保証するための保証が存在する小売エクスポージャーについては、銀行はPDまたはLGDの見積りを通じてリスク削減効果を反映することがあります。 1つまたは他の手法を採用するにあたって、銀行は一貫したアプローチを採用する必要があります。
+253. すべての場合において、借り手および認識されたすべての保証人には、当初および継続的に借り手格付けを割り当てる必要があります。銀行は、保証人の状態の定期的なモニタリングと義務を尊重する意思と能力を含む、本書に記載されている借り手の格付けを割り当てるための最低限の要件に従わなければなりません。銀行は、パラグラフ198および199の要件に沿って、保証および保証人がいない借り手に関するすべての関連情報を保持しなければならない。小売保証の場合、これらの要件は、プールへのエクスポージャーの割当およびPDの推定にも適用されます。
+254. いかなる場合においても、調整されたリスクウェイトが保証人に匹敵する直接的エクスポージャーのリスクウェイトよりも低くなるような、調整されたPDまたはLGDを保証エクスポージャーに割り当てることはできない。基準や格付プロセスでは、最低限の資本要件のために、借り手と保証人の債務不履行事象間の不完全な予想相関の可​​能性のある有利な影響を考慮することはできません。したがって、調整後のリスクウェイトは、「ダブルデフォルト」のリスク軽減を反映してはならない。
+
+255. In case the bank applies the standardised approach to direct exposures to the guarantor, the guarantee may only be recognised by treating the covered portion of the exposure as a direct exposure to the guarantor under the standardised approach. Similarly, in case the bank applies the F-IRB approach to direct exposures to the guarantor, the guarantee may only be recognised by applying the F-IRB approach to the covered portion of the exposure. Alternatively, banks may choose to not recognise the effect of guarantees on their exposures.
+Eligible guarantors and guarantees
+256. There are no restrictions on the types of eligible guarantors. The bank must, however, have clearly specified criteria for the types of guarantors it will recognise for regulatory capital purposes.
+257. The guarantee must be evidenced in writing, non-cancellable on the part of the guarantor, in force until the debt is satisfied in full (to the extent of the amount and tenor of the guarantee) and legally enforceable against the guarantor in a jurisdiction where the guarantor has assets to attach and enforce a judgement. The guarantee must also be unconditional; there should be no clause in the protection contract outside the direct control of the bank that could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original counterparty fails to make the payment(s) due. However, as an exception for the purposes of own estimates of EAD under the A-IRB, guarantees that only cover loss remaining after the bank has first pursued the original obligor for payment and has completed the workout process may be recognised.
+258. In case of guarantees where the bank applies the standardised approach to the covered portion of the exposure, the scope of guarantors and the minimum requirements as under the standardised approach apply.
+Adjustment criteria
+259. A bank must have clearly specified criteria for adjusting borrower grades or LGD estimates (or in the case of retail and eligible purchased receivables, the process of allocating exposures to pools) to reflect the impact of guarantees for regulatory capital purposes. These criteria must be as detailed as the criteria for assigning exposures to grades consistent with paragraphs 177 and 178, and must follow all minimum requirements for assigning borrower or facility ratings set out in this document.
+260. The criteria must be plausible and intuitive, and must address the guarantor’s ability and willingness to perform under the guarantee. The criteria must also address the likely timing of any payments and the degree to which the guarantor’s ability to perform under the guarantee is correlated with the borrower’s ability to repay. The bank’s criteria must also consider the extent to which residual risk to the borrower remains, for example a currency mismatch between the guarantee and the underlying exposure.
+261. In adjusting borrower grades or LGD estimates (or in the case of retail and eligible purchased receivables, the process of allocating exposures to pools), banks must take all relevant available information into account.
+Credit derivatives
+262. The minimum requirements for guarantees are relevant also for single-name credit derivatives. Additional considerations arise in respect of asset mismatches. The criteria used for assigning adjusted borrower grades or LGD estimates (or pools) for exposures hedged with credit derivatives must require that the asset on which the protection is based (the reference asset) cannot be different from the underlying asset, unless the conditions outlined in the foundation approach are met.
+263. In addition, the criteria must address the payout structure of the credit derivative and conservatively assess the impact this has on the level and timing of recoveries. The bank must also consider the extent to which other forms of residual risk remain.
+
+
+
+255. 銀行が保証人への直接的エクスポージャーに関する標準化アプローチを適用する場合、保証の対象となる部分は、標準化されたアプローチによる保証人への直接的エクスポージャーとして扱うことによってのみ認識される。同様に、銀行がF-IRBアプローチを保証人に直接的なエクスポージャーに適用する場合、F-IRBのアプローチを適用して保証を認めることができます。あるいは、銀行は、エクスポージャーに対する保証の影響を認識しないことを選択するかもしれない。
+###### 適格保証人および保証人
+256. 適格保証人の種類に制限はありません。しかし、規制当局の資本目的で認められる保証人の種類については、銀行は明確な基準を設定しなければならない。
+257. 保証は、債務が完全に満たされるまで（保証の額および範囲内で）保証人に対して法的に強制されるまで、保証人の書面で証明され、取消不能であることが証明されなければならない裁判所は、保証人が訴訟を提起し、執行する資産を有している。保証は無条件でなければなりません。元の取引相手が支払期日を過ぎた場合に保護業者が適時に払い戻すことを義務づけられないようにすることができる、銀行の直接管理外の保護契約には条項が存在してはならない。しかし、A-IRBに基づくEADの見積もりを目的とした例外として、銀行が最初に支払いのための最初の債務者を追求し、ワークアウトプロセスを完了した後に残っているカバーロスのみが認識される可能性がある。
+258. 銀行がエクスポージャーの対象範囲に標準化されたアプローチを適用する保証の場合、保証人の範囲と標準化されたアプローチの下での最低要件が適用される。
+調整基準
+259. 銀行は、規制資本目的の保証の影響を反映するために、借り手の格付けまたはLGDの見積りを調整する明確な基準を明確に定めておく必要があります（小売および適格購入債権の場合、プールにエクスポージャーを割り当てるプロセス）。これらの基準は、パラグラフ177および178に適合する格付けにエクスポージャーを割り当てるための基準と同じくらい細かくなければならず、本書に記載されている借り手または施設の格付けを割り当てるための最小限の要件に従わなければならない。
+260. 基準は、妥当で直感的でなければならず、保証人の能力とその保証のもとで実行する意思に対処しなければならない。基準はまた、支払いの可能性のあるタイミングと、保証に基づいて実行する保証人の能力が借り手の返済能力と相関する度合いにも対処しなければならない。銀行の基準は、借り手への残存リスクがどの程度残っているか、例えば保証と基礎となるエクスポージャーとの間の通貨の不一致も考慮する必要があります。
+261. 銀行は、借り手の格付けまたはLGDの見積り（または小売および適格購入債権の場合、エクスポージャーをプールに配分するプロセス）を調整する際に、関連するすべての利用可能な情報を考慮する必要があります。
+###### クレジットデリバティブ
+262. 保証の最低要件は、単一名のクレジット・デリバティブについても同様である。資産の不一致に関する追加の考慮事項が生じる。クレジット・デリバティブでヘッジされたエクスポージャーの調整借り手格付けまたはLGD見積り（またはプール）の割当基準は、以下の基礎的アプローチが満たされる。
+263. さらに、基準は、信用デリバティブの支払い構造に対処し、回復のレベルと時期に及ぼす影響を慎重に評価しなければならない。銀行はまた、他の形態の残存リスクが残っている程度を考慮しなければならない。
+
+
+For banks using foundation LGD estimates
+264. The minimum requirements outlined in paragraphs 252 to 263 apply to banks using the foundation LGD estimates with the following exceptions:
+(i) The bank is not able to use an ‘LGD-adjustment’ option; and
+(ii) The range of eligible guarantees and guarantors is limited to those outlined in paragraph 92.
+(x) Requirements specific to estimating PD and LGD (or EL) for qualifying purchased receivables
+265. The following minimum requirements for risk quantification must be satisfied for any purchased receivables (corporate or retail) making use of the top-down treatment of default risk and/or the IRB treatments of dilution risk.
+266. The purchasing bank will be required to group the receivables into sufficiently homogeneous pools so that accurate and consistent estimates of PD and LGD (or EL) for default losses and EL estimates of dilution losses can be determined. In general, the risk bucketing process will reflect the seller’s underwriting practices and the heterogeneity of its customers. In addition, methods and data for estimating PD, LGD, and EL must comply with the existing risk quantification standards for retail exposures. In particular, quantification should reflect all information available to the purchasing bank regarding the quality of the underlying receivables, including data for similar pools provided by the seller, by the purchasing bank, or by external sources. The purchasing bank must determine whether the data provided by the seller are consistent with expectations agreed upon by both parties concerning, for example, the type, volume and on-going quality of receivables purchased. Where this is not the case, the purchasing bank is expected to obtain and rely upon more relevant data.
+Minimum operational requirements
+267. A bank purchasing receivables has to justify confidence that current and future advances can be repaid from the liquidation of (or collections against) the receivables pool. To qualify for the top-down treatment of default risk, the receivable pool and overall lending relationship should be closely monitored and controlled. Specifically, a bank will have to demonstrate the following:
+Legal certainty
+268. The structure of the facility must ensure that under all foreseeable circumstances the bank has effective ownership and control of the cash remittances from the receivables, including incidences of seller or servicer distress and bankruptcy. When the obligor makes payments directly to a seller or servicer, the bank must verify regularly that payments are forwarded completely and within the contractually agreed terms. As well, ownership over the receivables and cash receipts should be protected against bankruptcy ‘stays’ or legal challenges that could materially delay the lender’s ability to liquidate/assign the receivables or retain control over cash receipts.
+Effectiveness of monitoring systems
+269. The bank must be able to monitor both the quality of the receivables and the financial condition of the seller and servicer. In particular:
+• The bank must (a) assess the correlation among the quality of the receivables and the financial condition of both the seller and servicer, and (b) have in place internal policies and procedures that provide adequate safeguards to protect against such contingencies, including the assignment of an internal risk rating for each seller and servicer.
+• The bank must have clear and effective policies and procedures for determining seller and servicer eligibility. The bank or its agent must conduct periodic reviews of sellers and servicers in
+102 Basel III: Finalising post-crisis reforms
+order to verify the accuracy of reports from the seller/servicer, detect fraud or operational weaknesses, and verify the quality of the seller’s credit policies and servicer’s collection policies and procedures. The findings of these reviews must be well documented.
+• The bank must have the ability to assess the characteristics of the receivables pool, including: (a) over-advances; (b) history of the seller’s arrears, bad debts, and bad debt allowances; (c) payment terms; and (d) potential contra accounts.
+• The bank must have effective policies and procedures for monitoring on an aggregate basis single-obligor concentrations both within and across receivables pools.
+• The bank must receive timely and sufficiently detailed reports of receivables ageings and dilutions to (a) ensure compliance with the bank’s eligibility criteria and advancing policies governing purchased receivables, and (b) provide an effective means with which to monitor and confirm the seller’s terms of sale (eg invoice date ageing) and dilution.
+
+
+基礎LGD見積もりを使用する銀行について
+264. 第252項から第263項に記載されている最低限の要件は、以下の例外を除いて、基礎LGDの見積りを使用する銀行に適用される。
+（ⅰ）銀行は「LGD調整」オプションを使用することができない。そして
+（ii）適格保証および保証人の範囲は、パラグラフ92に記載されているものに限定される。
+（x）適格購入済債権のPDおよびLGD（またはEL）の見積りに固有の要件
+265. デフォルトリスクのトップダウン処理および/または希薄化リスクのIRB処理を利用して購入した債権（法人または小売）については、リスク定量化のための以下の最小要件が満たされなければならない。
+266. 購買銀行は、債権を十分に均質なプールに分類して、デフォルト損失および希薄化損失のEL推定値を決定するためのPDおよびLGD（またはEL）の正確かつ一貫した推定ができるようにする必要がある。一般に、リスクバケット処理は、売り手の引受実務とその顧客の異質性を反映する。さらに、PD、LGD、およびELを見積もるための方法およびデータは、小売エクスポージャーに関する既存のリスク定量化基準を遵守しなければならない。特に、定量化は、売り手、購買銀行、または外部供給元によって提供される同様のプールのデータを含む、基礎となる債権の質に関する購買銀行の利用可能なすべての情報を反映するべきである。購買銀行は、売り手によって提供されたデータが、購入された債権の種類、量、進行中の品質など、両当事者が合意した期待と一致するかどうかを判断する必要があります。これが当てはまらない場合、購入銀行はより関連性の高いデータを入手し、これに頼ることが予想される。
+###### 最小操作要件
+267. 債権を購入する銀行は、債権プールの清算（または債権回収）から現在および将来の前払金が返済されるという確信を正当化しなければならない。債務不履行リスクのトップダウン処理を受ける資格を得るには、債権プールと全体的な貸出関係を厳重に監視し、管理する必要があります。具体的には、銀行は次のことを証明しなければならない。
+###### 法的確実性
+268. 施設の構造は、予測可能なすべての状況下で、売手またはサービサーの苦痛および倒産の発生を含む、債権からの現金送金の有効な所有および管理を確実に行わなければならない。債務者が売り手またはサービサーに直接支払いを行う場合、銀行は支払いが契約上合意された条件で完全に転送されることを定期的に確認しなければならない。同様に、債権の清算/譲渡や現金収入の支配権を保持する貸し手の能力を大幅に遅延させる可能性のある破産「滞在」や法的挑戦から、債権および現金領収書に対する所有権を保護する必要があります。
+###### 監視システムの有効性
+269. 銀行は、売掛金の質と売り手とサービサーの財政状態の両方を監視することができなければならない。特に：
+- 銀行は、（a）売掛金の質と売り手とサービサーの財政状態との相関関係を評価し、（b）そのような偶発事象から保護するための適切なセーフガードを提供する内部の方針と手続きを定める各売り手とサービサーの内部リスク格付けの割り当て。
+- 銀行は、売り手とサービサーの適格性を決定するための明確で効果的な方針と手続きを持っていなければならない。銀行またはその代理人は、販売者およびサービサーの定期的なレビューを行う必要があります。
+102バーゼルⅢ：危機後の改革を終結させる
+売り手/サービサーからの報告の正確性を検証し、不正または操作上の弱点を検出し、売り手の信用政策およびサービサーの回収方針および手順の品質を検証するための命令。これらのレビューの結果は十分に文書化されなければならない。
+- 銀行は、以下を含む債権プールの特性を評価する能力を有していなければならない。 （b）売主の延滞債権、不良債権および不良債権の履歴。 （c）支払い条件。 （d）潜在的な対抗勘定。
+- 銀行は、債権プール内および債権プールの両方において、単一債務者集約度を総合的に監視するための効果的な方針および手続きを持たなければならない。
+- 銀行は、（a）売掛金を管理するための適格基準および前払い方針の遵守を保証し、（b）売り手の条件を監視して確認するための有効な手段を提供するために、債権の年齢および希釈度に関するタイムリーかつ十分な詳細な報告を受けなければならない（例えば、請求書日付の経年変化）および希釈が含まれる。
+
+Effectiveness of work-out systems
+270. An effective programme requires systems and procedures not only for detecting deterioration in the seller’s financial condition and deterioration in the quality of the receivables at an early stage, but also for addressing emerging problems pro-actively. In particular,
+• The bank should have clear and effective policies, procedures, and information systems to monitor compliance with (a) all contractual terms of the facility (including covenants, advancing formulas, concentration limits, early amortisation triggers, etc) as well as (b) the bank’s internal policies governing advance rates and receivables eligibility. The bank’s systems should track covenant violations and waivers as well as exceptions to established policies and procedures.
+• To limit inappropriate draws, the bank should have effective policies and procedures for detecting, approving, monitoring, and correcting over-advances.
+• The bank should have effective policies and procedures for dealing with financially weakened sellers or servicers and/or deterioration in the quality of receivable pools. These include, but are not necessarily limited to, early termination triggers in revolving facilities and other covenant protections, a structured and disciplined approach to dealing with covenant violations, and clear and effective policies and procedures for initiating legal actions and dealing with problem receivables.
+Effectiveness of systems for controlling collateral, credit availability, and cash
+271. The bank must have clear and effective policies and procedures governing the control of receivables, credit, and cash. In particular,
+• Written internal policies must specify all material elements of the receivables purchase programme, including the advancing rates, eligible collateral, necessary documentation, concentration limits, and how cash receipts are to be handled. These elements should take appropriate account of all relevant and material factors, including the seller’s/servicer’s financial condition, risk concentrations, and trends in the quality of the receivables and the seller’s customer base.
+• Internal systems must ensure that funds are advanced only against specified supporting collateral and documentation (such as servicer attestations, invoices, shipping documents, etc).
+Compliance with the bank’s internal policies and procedures
+272. Given the reliance on monitoring and control systems to limit credit risk, the bank should have an effective internal process for assessing compliance with all critical policies and procedures, including
+Basel III: Finalising post-crisis reforms 103
+• regular internal and/or external audits of all critical phases of the bank’s receivables purchase programme.
+• verification of the separation of duties (i) between the assessment of the seller/servicer and the assessment of the obligor and (ii) between the assessment of the seller/servicer and the field audit of the seller/servicer.
+273. A bank’s effective internal process for assessing compliance with all critical policies and procedures should also include evaluations of back office operations, with particular focus on qualifications, experience, staffing levels, and supporting systems.
+
+###### ワークアウトシステムの有効性
+270. 効果的なプログラムでは、売り手の財務状態の悪化と債権の早期段階での悪化を検出するだけでなく、新たな問題に積極的に対処するためのシステムと手順が必要である。特に、
+（a）契約のすべての契約条件（契約、前払い式、集中制限、早期償却トリガーなどを含む）、ならびに（b）当行の契約条件を監視するための明確で効果的な方針、前払い率と債権の適格性を管理する銀行の内部ポリシー。銀行の制度は、確立された方針や手続きに対する例外として、契約違反や権利放棄を追跡すべきである。
+- 不適切な引き出しを制限するために、銀行は過度の進歩を検出、承認、監視、修正するための効果的な方針と手続きを持っている必要があります。
+- 銀行は、財務的に弱い売り手やサービサー、あるいは受領可能なプールの質の低下に対処するための効果的な政策と手続きを持っているべきである。これには、リボルビング施設およびその他の契約保護における早期終了トリガー、契約違反に対処するための構造化された規律あるアプローチ、法的措置の開始および問題債権処理のための明確で効果的なポリシーおよび手続が含まれます。
+担保、与信枠および現金を管理するシステムの有効性
+271. 銀行は、債権、信用、および現金の支配を管理する明確で効果的な政策および手続きを持たなければならない。特に、
+- 書面による内部ポリシーは、前受金、適格担保、必要書類、集中制限、現金受領の処理方法など、債権購入プログラムのすべての重要な要素を明記する必要があります。これらの要素は、売り手/サービサーの財政状態、リスク集中、債権の質の動向および売り手の顧客基盤を含む、すべての関連および重要な要素を適切に考慮する必要があります。
+- 内部システムは、特定の裏付担保および文書（サービサー証書、請求書、出荷書類など）に対してのみ資金が先送りされるようにする必要があります。
+###### 銀行の社内方針と手続きの遵守
+272. 信用リスクを制限するための監視および制御システムへの依存を前提として、銀行は、すべての重要な政策および手続の遵守を評価するための効果的な内部プロセスを有するべきである。
+バーゼルIII：危機後の改革の終結
+- 銀行の債権購入プログラムのすべての重要な段階の定期的な内部監査および/または外部監査。
+- （i）売り手/サービサーの評価と債務者の評価との間の（ii）売り手/サービサーの評価と売り手/サービサーの現場監査との間の職務の分離の検証。
+273. すべての重要な方針と手続きの遵守を評価するための銀行の効果的な内部プロセスには、資格、経験、人材レベル、および支援システムに特に重点を置いたバックオフィス業務の評価も含まれるべきである。
+
+
+8. Validation of internal estimates
+274. Banks must have a robust system in place to validate the accuracy and consistency of rating systems, processes, and the estimation of all relevant risk components. A bank must demonstrate to its supervisor that the internal validation process enables it to assess the performance of internal rating and risk estimation systems consistently and meaningfully.
+275. Banks must regularly compare realised default rates with estimated PDs for each grade and be able to demonstrate that the realised default rates are within the expected range for that grade. Banks using the advanced IRB approach must complete such analysis for their estimates of LGDs and EADs. Such comparisons must make use of historical data that are over as long a period as possible. The methods and data used in such comparisons by the bank must be clearly documented by the bank. This analysis and documentation must be updated at least annually.
+276. Banks must also use other quantitative validation tools and comparisons with relevant external data sources. The analysis must be based on data that are appropriate to the portfolio, are updated regularly, and cover a relevant observation period. Banks’ internal assessments of the performance of their own rating systems must be based on long data histories, covering a range of economic conditions, and ideally one or more complete business cycles.
+277. Banks must demonstrate that quantitative testing methods and other validation methods do not vary systematically with the economic cycle. Changes in methods and data (both data sources and periods covered) must be clearly and thoroughly documented.
+278. Banks must have well-articulated internal standards for situations where deviations in realised PDs, LGDs and EADs from expectations become significant enough to call the validity of the estimates into question. These standards must take account of business cycles and similar systematic variability in default experiences. Where realised values continue to be higher than expected values, banks must revise estimates upward to reflect their default and loss experience.
+279. Where banks rely on supervisory, rather than internal, estimates of risk parameters, they are encouraged to compare realised LGDs and EADs to those set by the supervisors. The information on realised LGDs and EADs should form part of the bank’s assessment of economic capital.
+
+#### 8.内部見積りの検証
+274. 銀行は、格付けシステム、プロセス、およびすべての関連するリスク要素の見積りの正確性と一貫性を検証するために、堅牢なシステムを備えていなければならない。銀行は内部監査プロセスにより内部格付およびリスク評価システムのパフォーマンスを一貫して有意義に評価できることを監督当局に示す必要があります。
+275. 銀行は、履行された債務不履行率を各格付けのPDと定期的に比較し、実現された債務不履行率がその格付けの期待レンジ内にあることを実証することができなければならない。先進的なIRBアプローチを採用している銀行は、LGDとEADの見積もりについてそのような分析を完了しなければならない。このような比較では、可能な限り長期間にわたる履歴データを使用する必要があります。このような銀行の比較に使用される方法およびデータは、銀行によって明確に文書化されなければならない。この分析と文書は少なくとも年に1回更新する必要があります。
+276. 銀行はまた、他の定量的検証ツールおよび関連する外部データソースとの比較も使用しなければならない。分析は、ポートフォリオに適したデータに基づいて行われ、定期的に更新され、関連する観測期間をカバーしなければなりません。銀行自身の格付けシステムのパフォーマンスに関する銀行の内部評価は、さまざまな経済状況をカバーする長いデータ履歴に基づいており、理想的には1つ以上の完全なビジネスサイクルに基づいている必要があります。
+277. 銀行は、定量的な試験方法およびその他の検証方法が経済サイクルに伴って系統的に変化しないことを証明しなければならない。方法とデータ（データソースと対象期間の両方）の変更は、明確かつ完全に文書化する必要があります。
+278. 実現PD、LGDおよびEADの期待値からの偏差が見積りの有効性を疑問視するほど十分に重要になる状況については、銀行は内部規範を明確にしなければならない。これらの基準は、景気サイクルおよびデフォルトの経験における同様の系統的変動性を考慮する必要があります。実現価値が引き続き期待値よりも高い場合、銀行はデフォルトおよび損失経験を反映して見積りを上方修正しなければならない。
+279. 銀行がリスクパラメータの内部評価ではなく監督に頼っている場合、実現LGDとEADを上司が設定したものと比較することが奨励される。実現LGDとEADに関する情報は、当行の経済資本の評価の一部を構成すべきである。
+
+
+9. Supervisory LGD and EAD estimates
+280. Banks under the foundation IRB approach, which do not meet the requirements for own-estimates of LGD and EAD, above, must meet the minimum requirements described in the standardised approach to receive recognition for eligible financial collateral (as set out in the credit risk mitigation section (Section D) of the standardised approach). They must meet the following additional minimum requirements in order to receive recognition for additional collateral types.
+104 Basel III: Finalising post-crisis reforms
+(i) Definition of eligibility of CRE and RRE as collateral
+281. Eligible CRE and RRE collateral for corporate and bank exposures are defined as:
+• Collateral where the risk of the borrower is not materially dependent upon the performance of the underlying property or project, but rather on the underlying capacity of the borrower to repay the debt from other sources. As such, repayment of the facility is not materially dependent on any cash flow generated by the underlying CRE/RRE serving as collateral;29 and
+• Additionally, the value of the collateral pledged must not be materially dependent on the performance of the borrower. This requirement is not intended to preclude situations where purely macro-economic factors affect both the value of the collateral and the performance of the borrower.
+282. In light of the generic description above and the definition of corporate exposures, income producing real estate that falls under the SL asset class is specifically excluded from recognition as collateral for corporate exposures.30
+(ii) Operational requirements for eligible CRE/RRE
+283. Subject to meeting the definition above, CRE and RRE will be eligible for recognition as collateral for corporate claims only if all of the following operational requirements are met.
+• Legal enforceability: any claim on collateral taken must be legally enforceable in all relevant jurisdictions, and any claim on collateral must be properly filed on a timely basis. Collateral interests must reflect a perfected lien (ie all legal requirements for establishing the claim have been fulfilled). Furthermore, the collateral agreement and the legal process underpinning it must be such that they provide for the bank to realise the value of the collateral within a reasonable timeframe.
+• Objective market value of collateral: the collateral must be valued at or less than the current fair value under which the property could be sold under private contract between a willing seller and an arm’s-length buyer on the date of valuation.
+• Frequent revaluation: the bank is expected to monitor the value of the collateral on a frequent basis and at a minimum once every year. More frequent monitoring is suggested where the market is subject to significant changes in conditions. Statistical methods of evaluation (eg reference to house price indices, sampling) may be used to update estimates or to identify collateral that may have declined in value and that may need re-appraisal. A qualified professional must evaluate the property when information indicates that the value of the collateral may have declined materially relative to general market prices or when a credit event, such as default, occurs.
+• Junior liens: In some member countries, eligible collateral will be restricted to situations where the lender has a first charge over the property.31 Junior liens may be taken into account where there is no doubt that the claim for collateral is legally enforceable and constitutes an efficient credit risk mitigant. Where junior liens are recognised the bank must first take the haircut value of the collateral, then reduce it by the sum of all loans with liens that rank higher than the junior lien, the remaining value is the collateral that supports the loan with the junior lien. In cases where liens are held by third parties that rank pari passu with the lien of the bank, only the proportion of the collateral (after the application of haircuts and reductions due to the value of loans with liens that rank higher than the lien of the bank) that is attributable to the bank may be recognised.
+284. Additional collateral management requirements are as follows:
+• The types of CRE and RRE collateral accepted by the bank and lending policies (advance rates) when this type of collateral is taken must be clearly documented.
+• The bank must take steps to ensure that the property taken as collateral is adequately insured against damage or deterioration.
+• The bank must monitor on an ongoing basis the extent of any permissible prior claims (eg tax) on the property.
+• The bank must appropriately monitor the risk of environmental liability arising in respect of the collateral, such as the presence of toxic material on a property.
+
+
+
+#### 9.監督当局のLGDおよびEADによる見積り
+280. 上記のLGDおよびEADの自己見積りの要件を満たさない、基礎IRBアプローチの下の銀行は、適格金融担保の認識を受けるための標準化されたアプローチに記載されている最小要件を満たさなければならない（クレジット標準化されたアプローチのリスク軽減セクション（セクションD）を参照）。追加の担保タイプの認識を受けるには、以下の追加最低要件を満たす必要があります。
+104バーゼルIII：危機後の改革を終結させる
+#####（i）担保としてのCREおよびRREの適格性の定義
+281. 企業および銀行のエクスポージャーに対する適格CREおよびRRE担保は、以下のように定義される。
+- 借り手のリスクが、基礎となる財産やプロジェクトのパフォーマンスに大きく依存しない担保ではなく、借り手が他の源泉から債務を返済する基礎的な能力に依存する担保。したがって、当該施設の返済は、担保としての基礎となるCRE / RREによって生み出されるキャッシュ・フローに実質的に依存しない29。
+また、担保の価値は、借り手の業績に重要な影響を与えてはならない。この要件は、純粋にマクロ経済的要因が担保の価値と借り手の業績の両方に影響を及ぼす状況を排除することを意図したものではありません。
+上記の一般的な記述および企業エクスポージャーの定義に照らして、SL資産クラスに属する不動産を生産する所得は、企業エクスポージャーの担保として認識されない。
+#####（ii）資格を有するCRE / RREの運用要件
+上記の定義に従うことを条件として、CREおよびRREは、以下の運用要件がすべて満たされている場合にのみ、企業の請求のための担保として適格となる。
+- 法的執行可能性：取られた担保に関するすべての請求は、関連するすべての管轄区域において法的に強制可能でなければならず、担保に対する請求は適時に適切に提出されなければならない。担保権益は完全な先取特権を反映しなければならない（すなわち、請求を確立するためのすべての法的要件が満たされている）。さらに、担保契約およびそれを支える法的手続きは、銀行が妥当な期間内に担保の価値を実現できるようにするものでなければならない。
+- 担保の客観的市場価値：担保は、評価日に自発的売り手と腕の長さの買い手との間の私的契約の下で売却可能な現在の公正価値以下で評価されなければならない。
+- 頻繁な再評価：銀行は、担保の価値を頻繁に、毎年最低1回監視することが期待されている。市場が条件の大幅な変更を受ける場合、より頻繁なモニタリングが提案される。評価の統計的手法（例えば、住宅価格指数の参照、サンプリング）は、見積りを更新するために、または価値が下がり、再評価が必要な担保を特定するために使用することができる。担保の価値が一般市場価格に比べて大幅に下落した場合や、債務不履行などのクレジット・イベントが発生した場合には、有資格専門家が資産を評価しなければなりません。
+- ジュニア・ライアン：一部の加盟国では、適格担保は、貸し手が不動産に最初に請求された場合に制限されます.31担保権の請求が法的に強制可能であることを疑う余地がない場合は、効率的な信用リスク緩和策。ジュニア・ライアンが認識されている場合、銀行は最初に担保のヘアカットの価値を取らなければならず、その後、ジュニア・リエンより高いランクのライアンの合計でそれを減らし、残りの価値はジュニア・ライエンでローンをサポートする担保です。抵当権が銀行の先取特権と並んでいる第三者によって保有されている場合には、担保の割合（ヘッジの適用後、担保権を有する貸付金の価値による減額が、銀行）が認識される可能性があります。
+284. 追加担保管理要件は以下のとおりである。
+- この種の担保が取られた場合、銀行が受け入れるCREおよびRRE担保の種類と貸出政策（前払い金利）は、明確に文書化されなければならない。
+- 銀行は、担保として受け取った不動産が破損や悪化に対して十分に保険されていることを保証するための措置を講じる必要があります。
+- 銀行は、財産に対する許容可能な事前請求（例えば税金）の範囲を継続的に監視しなければならない。
+- 銀行は、有価物に有毒物質が存在するなど、担保に関して生じる環境責任のリスクを適切に監視しなければならない。
+
+
+(iii) Requirements for recognition of financial receivables
+Definition of eligible receivables
+285. Eligible financial receivables are claims with an original maturity of less than or equal to one year where repayment will occur through the commercial or financial flows related to the underlying assets of the borrower. This includes both self-liquidating debt arising from the sale of goods or services linked to a commercial transaction and general amounts owed by buyers, suppliers, renters, national and local governmental authorities, or other non-affiliated parties not related to the sale of goods or services linked to a commercial transaction. Eligible receivables do not include those associated with securitisations, sub-participations or credit derivatives.
+Operational requirements
+Legal certainty
+286. The legal mechanism by which collateral is given must be robust and ensure that the lender has clear rights over the proceeds from the collateral.
+287. Banks must take all steps necessary to fulfil local requirements in respect of the enforceability of security interest, eg by registering a security interest with a registrar. There should be a framework that allows the potential lender to have a perfected first priority claim over the collateral.
+288. All documentation used in collateralised transactions must be binding on all parties and legally enforceable in all relevant jurisdictions. Banks must have conducted sufficient legal review to verify this and have a well-founded legal basis to reach this conclusion, and undertake such further review as necessary to ensure continuing enforceability.
+289. The collateral arrangements must be properly documented, with a clear and robust procedure for the timely collection of collateral proceeds. Banks’ procedures should ensure that any legal conditions required for declaring the default of the customer and timely collection of collateral are observed. In the event of the obligor’s financial distress or default, the bank should have legal authority to sell or assign the receivables to other parties without consent of the receivables’ obligors.
+
+#####（iii）金融債権の認識の要件
+###### 適格債権の定義
+285. 適格金融債権とは、借り手の原資産に関連する商業的または資金的フローを通じて返済が発生する元の満期が1年以下の債権です。これには、商取引に関連する商品またはサービスの売却に起因する自己清算債務およびバイヤー、サプライヤー、賃貸人、国および地方政府当局、または商品の販売に関連しないその他の非関連当事者または商取引に関連するサービス。適格債権には、証券化、サブ参加またはクレジットデリバティブに関連する債権は含まれていない。
+###### 動作要件
+####### 法的確実性
+286. 担保が提供される法的仕組みは強固でなければならず、貸し手は担保からの収入に対して明確な権利を持っていることを保証しなければならない。
+287. 銀行は、証券関心の実施可能性に関して、例えば証券会社の利息をレジストラに登録するなど、現地の要件を満たすために必要なすべての措置を講じなければならない。潜在的な貸し手が担保に対する完全な最優先権主張をすることを可能にする枠組みが存在しなければならない。
+288. 担保取引で使用されるすべての文書は、すべての当事者を拘束し、関連するすべての管轄区域において法的に強制可能でなければならない。銀行は、これを確認し、この結論に達するための十分に確立された法的基盤を有する十分な法的審査を実施し、継続的な強制力を確保するために必要に応じて更なる検討を行わなければならない。
+289. 担保の手配は、担保の収益のタイムリーな収集のための明確で堅牢な手続きで適切に文書化されなければならない。銀行の手続きは、顧客の不履行を宣言するのに必要な法的条件と担保のタイムリーな収集が確実に行われるようにするべきである。債務者の財政難または債務不履行が生じた場合、債権者の債務者の同意なく、債権を他の当事者に売却または割り当てることができる法的権限を銀行に持たせる必要があります。
+
+Risk management
+290. The bank must have a sound process for determining the credit risk in the receivables. Such a process should include, among other things, analyses of the borrower’s business and industry (eg effects of the business cycle) and the types of customers with whom the borrower does business. Where the bank relies on the borrower to ascertain the credit risk of the customers, the bank must review the borrower’s credit policy to ascertain its soundness and credibility.
+291. The margin between the amount of the exposure and the value of the receivables must reflect all appropriate factors, including the cost of collection, concentration within the receivables pool pledged by an individual borrower, and potential concentration risk within the bank’s total exposures.
+292. The bank must maintain a continuous monitoring process that is appropriate for the specific exposures (either immediate or contingent) attributable to the collateral to be utilised as a risk mitigant. This process may include, as appropriate and relevant, ageing reports, control of trade documents, borrowing base certificates, frequent audits of collateral, confirmation of accounts, control of the proceeds of accounts paid, analyses of dilution (credits given by the borrower to the issuers) and regular financial analysis of both the borrower and the issuers of the receivables, especially in the case when a small number of large-sized receivables are taken as collateral. Observance of the bank’s overall concentration limits should be monitored. Additionally, compliance with loan covenants, environmental restrictions, and other legal requirements should be reviewed on a regular basis.
+293. The receivables pledged by a borrower should be diversified and not be unduly correlated with the borrower. Where the correlation is high, eg where some issuers of the receivables are reliant on the borrower for their viability or the borrower and the issuers belong to a common industry, the attendant risks should be taken into account in the setting of margins for the collateral pool as a whole. Receivables from affiliates of the borrower (including subsidiaries and employees) will not be recognised as risk mitigants.
+294. The bank should have a documented process for collecting receivable payments in distressed situations. The requisite facilities for collection should be in place, even when the bank normally looks to the borrower for collections.
+
+
+####### 危機管理
+290. 銀行は、債権の信用リスクを決定するための健全なプロセスを持たなければならない。そのようなプロセスには、とりわけ、借り手の事業および業種の分析（例えば、景気循環の影響）および借り手が事業を行っている顧客のタイプが含まれるべきである。銀行が顧客の信用リスクを確認するために借り手に依存している場合、銀行はその健全性と信頼性を確認するために借り手の信用政策を見直さなければならない。
+291. 暴露量と債権額との間のマージンは、回収コスト、個々の借り手が約束する債権プール内の集中、および銀行の総エクスポージャー内の潜在的集中リスクを含むすべての適切な要因を反映しなければならない。
+292. 銀行は、リスク緩和剤として利用される担保に起因する特定のエクスポージャー（即時または偶発的なエクスポージャー）に適した継続的な監視プロセスを維持しなければならない。このプロセスには、適切かつ適切な時効報告書、貿易文書の管理、ベース証明書の借入れ、担保の頻繁な監査、勘定の確認、支払われた収入の管理、希釈の分析（借り手が債権者および発行体の発行体の定期的な財務分析、特に少額の大口債権が担保として徴収される場合には、銀行の全体的な集中制限の遵守を監視する必要があります。さらに、融資契約、環境制限、およびその他の法的要件の遵守は、定期的に見直す必要があります。
+293. 借り手が約束した債権は多様化し、借り手と過度に相関してはならない。債権の一部の発行体が生存可能性に借り手に依存している場合や、借り手および発行体が共通の業界に属している場合など、相関が高い場合、担保プールのマージンの設定に付随するリスクを考慮する必要があります全体として。子会社および従業員を含む借り手の関連会社からの債権は、リスク軽減手段として認識されません。
+294. 銀行は、不安定な状況において債権の支払いを回収するための文書化されたプロセスを有するべきである。銀行が通常借り手に回収を求めている場合であっても、収集に必要な設備が整備されている必要があります。
+
+
+Requirements for recognition of other physical collateral
+295. Supervisors may allow for recognition of the credit risk mitigating effect of certain other physical collateral when the following conditions are met:
+• The bank demonstrates to the satisfaction of the supervisor that there are liquid markets for disposal of collateral in an expeditious and economically efficient manner. Banks must carry out a reassessment of this condition both periodically and when information indicates material changes in the market.
+• The bank demonstrates to the satisfaction of the supervisor that there are well established, publicly available market prices for the collateral. Banks must also demonstrate that the amount they receive when collateral is realised does not deviate significantly from these market prices.
+296. In order for a given bank to receive recognition for additional physical collateral, it must meet all the standards in paragraphs 283 and 284, subject to the following modifications.
+• First Claim: With the sole exception of permissible prior claims specified in footnote 31, only first liens on, or charges over, collateral are permissible. As such, the bank must have priority over all other lenders to the realised proceeds of the collateral.
+• The loan agreement must include detailed descriptions of the collateral and the right to examine and revalue the collateral whenever this is deemed necessary by the lending bank.
+• The types of physical collateral accepted by the bank and policies and practices in respect of the appropriate amount of each type of collateral relative to the exposure amount must be clearly documented in internal credit policies and procedures and available for examination and/or audit review.
+• Bank credit policies with regard to the transaction structure must address appropriate collateral requirements relative to the exposure amount, the ability to liquidate the collateral readily, the ability to establish objectively a price or market value, the frequency with which the value can readily be obtained (including a professional appraisal or valuation), and the volatility of the value of the collateral. The periodic revaluation process must pay particular attention to “fashion-sensitive” collateral to ensure that valuations are appropriately adjusted downward of fashion, or model-year, obsolescence as well as physical obsolescence or deterioration.
+• In cases of inventories (eg raw materials, work-in-process, finished goods, dealers’ inventories of autos) and equipment, the periodic revaluation process must include physical inspection of the collateral.
+297. General Security Agreements, and other forms of floating charge, can provide the lending bank with a registered claim over a company’s assets. In cases where the registered claim includes both assets that are not eligible as collateral under the F-IRB and assets that are eligible as collateral under the F-IRB, the bank may recognise the latter. Recognition is conditional on the claims meeting the operational requirements set out paragraphs 280 to 296.
+
+
+
+###### 他の物的担保の認識要件
+295. 監督当局は、以下の条件が満たされた場合に、特定の他の物的担保の信用リスク軽減効果を認識させることができる。
+- 銀行は、迅速かつ経済的に効率的な方法で担保の処分のための流動的な市場が存在することを監督者の満足の下に証明する。銀行は、定期的にまた情報が市場における重要な変更を示す場合に、この条件の再評価を行わなければならない。
+- 銀行は監督当局が十分に確立されており、公開されている担保の市場価格が満たされていることを証明する。また、銀行は、担保が実現したときに受け取る金額がこれらの市場価格から大幅に逸脱しないことを証明しなければならない。
+特定の銀行が追加的な物的担保の承認を受けるためには、以下の変更を条件として、パラグラフ283および284のすべての基準を満たさなければならない。
+- 第1クレーム：脚注31に指定されている許容可能な先行請求権を除いて、担保権の第1順位または担保権のみが許されます。したがって、銀行は、担保の実現された収益に対する他の全ての貸し手よりも優先されなければならない。
+- 貸付契約には、担保の詳細な説明と、担保が必要とみなされる場合には担保の調査と再評価の権利が含まれていなければなりません。
+- エクスポージャー金額に対する各担保の種類の適切な金額に関する、銀行が受け入れた物的担保の種類と方針とプラクティスは、内部の与信方針と手続きに明確に文書化され、審査や監査の審査に利用可能でなければならない。
+- 取引構造に関する銀行の信用政策は、エクスポージャー金額、担保の早期償還能力、客観的に価格または市場価値を確立する能力、価値が容易に得られる頻度（専門的な評価または評価を含む）、および担保価値のボラティリティ。定期的な再評価プロセスでは、ファッション、モデル年、陳腐化、物理的な陳腐化や劣化の評価値を適切に調整するために、「ファッションセンシティブ」担保に特に注意を払わなければなりません。
+- 在庫の場合（原材料、仕掛品、完成品、ディーラーの自動車の在庫）および機器の場合、定期的な再評価プロセスには、担保の物理的検査が含まれていなければなりません。
+297. 一般保安協定およびその他の流動負債は、貸出銀行に会社の資産に対する登録請求を提供することができます。登録されたクレームがF-IRBの下で担保として適格でない資産およびF-IRBの下で担保として適格な資産の両方を含む場合、銀行は後者を認識することができる。認定は、第280項から第296項に記載されている運用要件を満たす請求項を条件とする。
+
+10. Requirements for recognition of leasing
+298. Leases other than those that expose the bank to residual value risk (see paragraph 299) will be accorded the same treatment as exposures collateralised by the same type of collateral. The minimum requirements for the collateral type must be met (CRE/RRE or other collateral). In addition, the bank must also meet the following standards:
+• Robust risk management on the part of the lessor with respect to the location of the asset, the use to which it is put, its age, and planned obsolescence;
+• A robust legal framework establishing the lessor’s legal ownership of the asset and its ability to exercise its rights as owner in a timely fashion; and
+• The difference between the rate of depreciation of the physical asset and the rate of amortisation of the lease payments must not be so large as to overstate the CRM attributed to the leased assets.
+108 Basel III: Finalising post-crisis reforms
+299. Leases that expose the bank to residual value risk will be treated in the following manner. Residual value risk is the bank’s exposure to potential loss due to the fair value of the equipment declining below its residual estimate at lease inception.
+• The discounted lease payment stream will receive a risk weight appropriate for the lessee’s financial strength (PD) and supervisory or own-estimate of LGD, whichever is appropriate.
+• The residual value will be risk-weighted at 100%.
+11. Disclosure requirements
+300. In order to be eligible for the IRB approach, banks must meet the disclosure requirements set out in Pillar 3. These are minimum requirements for use of IRB: failure to meet these will render banks ineligible to use the relevant IRB approach.
+
+
+##### 10.リースの認識に関する要件
+298. 銀行に残存価値リスク（299項参照）を暴露するもの以外のリースは、同じ種類の担保によって担保されたエクスポージャーと同じ扱いとなる。担保タイプの最低要件（CRE / RREまたはその他の担保）を満たしている必要があります。また、銀行は次の基準を満たさなければなりません。
+- 資産の場所、使用目的、年齢、計画されている陳腐化に関して、貸し手側の堅固なリスク管理。
+- 賃貸人の資産の法的所有権と適時に所有者としての権利を行使する能力を確立する堅固な法的枠組み;そして
+- 物理的資産の減価償却率とリース料の償却率の差は、リース資産に起因するCRMを過大評価するほど大きくしてはならない。
+108バーゼルIII：危機後の改革を終結させる
+299. 残存価値リスクに銀行をさらすリースは、以下の方法で処理される。残存価値リスクは、リース開始時の残存価値を下回って減少した設備の公正価値による潜在的損失に対する銀行のエクスポージャーである。
+- ディスカウントリース支払ストリームには、借手の財務力（PD）およびLGDの監督または自己評価に適したリスクウェイトが適用されます。
+- 残存価値はリスク加重100％となります。
+##### 11.ディスクロージャー要件
+300. IRBアプローチの資格を得るためには、銀行は第3柱に記載された開示要件​​を満たさなければならない。これらはIRBの使用の最低要件である。
+
+
+
+
+
+
+
+
+
